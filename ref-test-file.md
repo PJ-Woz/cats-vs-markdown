@@ -11,7 +11,7 @@ Also, HTML with JavaScript was embedded in the test file, as these are often use
 
 The test file is a Markdown guidebook. It includes a list of Markdown tags, their syntax, and the expected results are presented. That is why Markdown syntax is omitted in this page.
 
-Go to [the test file](./resources/Markdown-in-CAT-test).
+Go to [the test file](./resources/Markdown-in-CAT-test.md).
 
 # Definitions
 
@@ -34,3 +34,5 @@ Skip to section:
 - [*Wordfast Pro 8 — overview*](wordfast-00-overview)
 - [*Comparison of CATs*](top-comparison)
 - [*General recommendations for translating Markdown*](top-general-rec)
+
+---
