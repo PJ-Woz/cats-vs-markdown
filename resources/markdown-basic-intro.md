@@ -1,3 +1,7 @@
+---
+title: Introduction to Markdown
+layout: default
+---
 An Introduction to Markdown in Standard Technical English<!-- omit in toc -->
 ===
  
