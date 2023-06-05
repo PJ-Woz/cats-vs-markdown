@@ -1,3 +1,9 @@
+---
+title: Phrase — results
+layout: default
+nav_order: 2
+parent: Phrase — overview
+---
 Phrase
 ===
 
@@ -196,8 +202,6 @@ As a result, no detailed study is presented.
 
 ---
 
-Go to section: [*Phrase — summary and recommendations*](phrase-03-summary-and-recommendations.md)
+Go to section: [*Phrase — summary and recommendations*](phrase-03-summary-and-recommendations)
 
 ---
-
-[Back to top](#phrase-results)

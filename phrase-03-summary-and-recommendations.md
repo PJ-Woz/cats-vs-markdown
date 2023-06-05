@@ -1,3 +1,9 @@
+---
+title: Phrase — recommendations
+layout: default
+nav_order: 3
+parent: Phrase — overview
+---
 Phrase
 ===
 
@@ -61,10 +67,9 @@ This section contains recommendations for technical writers (or generally, autho
 ---
 
 Go to sections:
-- [*Trados — overview*](trados-00-overview.md)
-- [*Wordfast Pro 8 — overview*](wordfast-00-overview.md)
-- [*Comparison of CATs*](top-comparison.md)
-- [*General recommendations for translating Markdown*](top-general-rec.md)
+- [*Trados — overview*](trados-00-overview)
+- [*Wordfast Pro 8 — overview*](wordfast-00-overview)
+- [*Comparison of CATs*](top-comparison)
+- [*General recommendations for translating Markdown*](top-general-rec)
 
 ---
-[Back to top](#summary)

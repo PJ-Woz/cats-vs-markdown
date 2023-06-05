@@ -1,3 +1,9 @@
+---
+title: Phrase — settings
+layout: default
+nav_order: 1
+parent: Phrase — overview
+---
 Phrase
 ===
 
@@ -34,12 +40,10 @@ The settings that require a list of items are not covered in this project. The r
 
 The default settings were used as the basic settings in the study. First, the Markdown flavours were checked. Then, further settings were added in the order from top to bottom.
 
-The behaviour of the settings is described in the [Phrase — results](phrase-02-results.md) section.
+The behaviour of the settings is described in the [Phrase — results](phrase-02-results) section.
 
 ---
 
-Go to section: [*Phrase — results*](phrase-02-results.md)
+Go to section: [*Phrase — results*](phrase-02-results)
 
 ---
-
-[Back to top](#settings)
