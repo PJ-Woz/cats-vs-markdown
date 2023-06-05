@@ -1,6 +1,7 @@
 ---
 title: Introduction to Markdown
 layout: default
+nav_exclude: true
 ---
 An Introduction to Markdown in Standard Technical English<!-- omit in toc -->
 ===
