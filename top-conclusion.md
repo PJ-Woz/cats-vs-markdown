@@ -3,10 +3,8 @@ title: Conclusion
 layout: default
 nav_order: 9
 ---
-Conclusion
+Final considerations
 ===
-
-# Final considerations
 
 This marks the end of the Markdown test carried out in Phrase, Trados Studio 2022, and Wordfast.
 
@@ -21,5 +19,5 @@ Analyse your text, analyse available options, and only then choose your CAT.
 ---
 
 Go to sections:
-- [*About*](about)
 - [*Glossary of terms*](glossary)
+- [*About*](about)
