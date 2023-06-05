@@ -2,7 +2,6 @@
 title: How do CATs process Markdown files?
 layout: home
 nav_order: 1
-has_children: true
 ---
 How do CATs process Markdown files? 
 ===
@@ -75,5 +74,3 @@ You can read this study as a whole or just the sections that are of interest to 
 Next section: *[Overview](ref-overview)*
 
 ---
-
-[Back to top](#introduction)

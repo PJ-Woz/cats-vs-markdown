@@ -1,3 +1,9 @@
+---
+title: Overview
+layout: default
+nav_order: 2
+has_children: true
+---
 Overview
 ===
 
@@ -6,14 +12,12 @@ This section covers basic information on Markdown, CAT software, and the difficu
 ---
 # Topics
 
-1. [What is Markdown?](ref-markdown.md)
-2. [What is a CAT?](ref-cat.md)
-3. [Why is Markdown difficult for CATs?](ref-why-md-difficult.md)
+1. [What is Markdown?](ref-markdown)
+2. [What is a CAT?](ref-cat)
+3. [Why is Markdown difficult for CATs?](ref-why-md-difficult)
 
 ---
 
-Next section: [*What is Markdown?*](ref-markdown.md)
+Next section: [*What is Markdown?*](ref-markdown)
 
 ---
-
-[Back to top](#overview)
