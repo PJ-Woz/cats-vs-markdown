@@ -1,3 +1,9 @@
+---
+title: Trados Studio 2022 — summary and recommendations
+layout: default
+nav_order: 3
+parent: Trados Studio 2022  — overview
+---
 # Summary
 
 In general, Trados Studio 2022 is a good tool to translate Markdown files. However, it shows strange behaviour and errors in some of the settings.
@@ -46,10 +52,9 @@ This section contains recommendations for technical writers (or generally, autho
 ---
 
 Go to sections:
-- [*Phrase — overview*](phrase-00-overview.md)
-- [*Wordfast Pro 8 — overview*](wordfast-00-overview.md)
-- [*Comparison of CATs*](top-comparison.md)
-- [*General recommendations for translating Markdown*](top-general-rec.md)
+- [*Phrase — overview*](phrase-00-overview)
+- [*Wordfast Pro 8 — overview*](wordfast-00-overview)
+- [*Comparison of CATs*](top-comparison)
+- [*General recommendations for translating Markdown*](top-general-rec)
 
 ---
-[Back to top](#summary)

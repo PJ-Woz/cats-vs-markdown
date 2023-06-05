@@ -1,3 +1,9 @@
+---
+title: Trados Studio 2022 — results
+layout: default
+nav_order: 2
+parent: Trados Studio 2022  — overview
+---
 Trados Studio 2022
 ===
 
@@ -232,7 +238,6 @@ The rest works as intended or as above.
 
 ---
 
-Next section: [*Trados Studio 2022 — summary and recommendations*](trados-03-summary-and-recommendations.md)
+Next section: [*Trados Studio 2022 — summary and recommendations*](trados-03-summary-and-recommendations)
 
 ---
-[Back to top](#trados-results)

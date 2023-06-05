@@ -1,3 +1,10 @@
+---
+title: Trados Studio 2022  — overview
+layout: default
+nav_order: 5
+has_children: true
+has_toc: false
+---
 Trados Studio 2022
 ===
 
@@ -11,9 +18,9 @@ Trados Studio 2022 (also simply "Trados") was chosen because a licence was avail
 
 The discussion of the test file in Trados is grouped into three sections:
 
-1. [Settings](trados-01-settings.md)
-2. [Results](trados-02-results.md)
-3. [Summary and recommendations](trados-03-summary-and-recommendations.md)
+1. [Settings](trados-01-settings)
+2. [Results](trados-02-results)
+3. [Summary and recommendations](trados-03-summary-and-recommendations)
 
 ---
 
@@ -25,5 +32,3 @@ References:
 [Tabor, Jared "CAT tool use by translators: what are they using?", Proz.com, access 2023-05-16](https://go.proz.com/blog/cat-tool-use-by-translators-what-are-they-using)
 
 ---
-
-[Back to top](#overview)

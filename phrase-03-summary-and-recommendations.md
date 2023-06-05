@@ -1,5 +1,5 @@
 ---
-title: Phrase — recommendations
+title: Phrase — summary and recommendations
 layout: default
 nav_order: 3
 parent: Phrase — overview
