@@ -37,7 +37,7 @@ This study is like the rim of a coin; it joins both sides so they can create tog
 
 This study is of value for both technical writers and translators. Whether you are the former or the latter, you can treat it as a point of reference on Markdown for translators and on CAT programs for technical writers.
 
-You can also learn what Markdown settings are included in Phrase, Trados Studio 2022, and Wordfast Pro. The settings are applied separately and in conjunction to open a [Markdown test file](ref-test-file.md). This file covers basic and extended Markdown syntax and also embedded HTML tags. The aim is to test how the CAT programs process Markdown syntax and which settings are best suited for the translation of `.md` files. The programs are then compared with each other.
+You can also learn what Markdown settings are included in Phrase, Trados Studio 2022, and Wordfast Pro. The settings are applied separately and in conjunction to open a [Markdown test file](ref-test-file). This file covers basic and extended Markdown syntax and also embedded HTML tags. The aim is to test how the CAT programs process Markdown syntax and which settings are best suited for the translation of `` files. The programs are then compared with each other.
 
 The study includes sections with recommendations. If you are a technical writer, they can help you with preparing a Markdown file which is easier for translating with a CAT. If you are a translator, they can help you with proper opening and translating a Markdown file in a CAT program.
 
@@ -46,33 +46,33 @@ You can read this study as a whole or just the sections that are of interest to 
 ---
 # Table of contents
 
-1. [Introduction](index.md)
-2. [Overview](ref-overview.md)
-	1. [What is Markdown?](ref-markdown.md)
-	2. [What is a CAT?](ref-cat.md)
-	3. [Why is Markdown difficult for CATs?](ref-why-md-difficult.md)
-3. [The test file](ref-test-file.md)
-4. [Phrase](phrase-00-overview.md)
-	1. [Settings](phrase-01-settings.md)
-	2. [Results](phrase-02-results.md)
-	3. [Summary and recommendations](phrase-03-summary-and-recommendations.md)
-5. [Trados](trados-00-overview.md)
-	1. [Settings](trados-01-settings.md)
-	2. [Results](trados-02-results.md)
-	3. [Summary and recommendations](trados-03-summary-and-recommendations.md)
-6. [Wordfast](wordfast-00-overview.md)
-	1. [Settings](wordfast-01-settings.md)
-	2. [Results](wordfast-02-results.md)
-	3. [Summary and recommendations](wordfast-03-summary-and-recommendations.md)
-7. [Comparison](top-comparison.md)
-8. [General recommendations](top-general-rec.md)
-9. [Conclusion](top-conclusion.md)
-10. [Glossary](glossary.md)
-11. [About](about.md)
+1. [Introduction](index)
+2. [Overview](ref-overview)
+	1. [What is Markdown?](ref-markdown)
+	2. [What is a CAT?](ref-cat)
+	3. [Why is Markdown difficult for CATs?](ref-why-md-difficult)
+3. [The test file](ref-test-file)
+4. [Phrase](phrase-00-overview)
+	1. [Settings](phrase-01-settings)
+	2. [Results](phrase-02-results)
+	3. [Summary and recommendations](phrase-03-summary-and-recommendations)
+5. [Trados](trados-00-overview)
+	1. [Settings](trados-01-settings)
+	2. [Results](trados-02-results)
+	3. [Summary and recommendations](trados-03-summary-and-recommendations)
+6. [Wordfast](wordfast-00-overview)
+	1. [Settings](wordfast-01-settings)
+	2. [Results](wordfast-02-results)
+	3. [Summary and recommendations](wordfast-03-summary-and-recommendations)
+7. [Comparison](top-comparison)
+8. [General recommendations](top-general-rec)
+9. [Conclusion](top-conclusion)
+10. [Glossary](glossary)
+11. [About](about)
 
 ---
 
-Next section: *[Overview](ref-overview.md)*
+Next section: *[Overview](ref-overview)*
 
 ---
 
