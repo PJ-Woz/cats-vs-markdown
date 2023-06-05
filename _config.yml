@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: How do CATs process Markdown files? 
+description: A study of how Computer Aided Translation programs import and export Markdown files
 theme: just-the-docs
 
 url: https://pj-woz.github.io/cats-vs-markdown
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+footer_content: "&#169; Paweł Woźnikowski, 2023"
+
+back_to_top: true
+
+back_to_top_text: "Back to top"
+
+color_scheme: thorium
+
