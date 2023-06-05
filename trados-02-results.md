@@ -209,7 +209,7 @@ This setting generates the following error:
 
 As a result, no study was carried out for that setting.
 
-# [Translate HTML blocks with HTML embedded content 5 2.0.0.0](Markdown-in-CAT-test-TS_PL-06.md)
+# [Translate HTML blocks with HTML embedded content 5 2.0.0.0](resources/Markdown-in-CAT-test-TS_PL-06.md)
 
 
 ## Basic syntax

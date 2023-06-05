@@ -1,3 +1,9 @@
+---
+title: Wordfast Pro 8 — results
+layout: default
+nav_order: 2
+parent: Wordfast Pro 8 — overview
+---
 Wordfast Pro 8 
 ===
 
@@ -266,11 +272,8 @@ Extended syntax works as intended or as above.
 
 HTML and other tags work as intended or as above.
 
-
 ---
 
-Next section: [*Wordfast Pro 8 — summary and recommendations*](wordfast-03-summary-and-recommendations.md)
+Next section: [*Wordfast Pro 8 — summary and recommendations*](wordfast-03-summary-and-recommendations)
 
 ---
-
-[Back to top](#wordfast-pro-8)

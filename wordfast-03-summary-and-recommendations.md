@@ -1,3 +1,9 @@
+---
+title: Wordfast Pro 8 — summary and recommendations
+layout: default
+nav_order: 2
+parent: Wordfast Pro 8 — overview
+---
 # Summary
 
 In general, Wordfast Pro 8 is a good tool to translate Markdown files despite the import error in the beginning.
@@ -43,10 +49,7 @@ This section contains recommendations for technical writers (or generally, autho
 ---
 
 Go to sections:
-- [*Phrase — overview*](phrase-00-overview.md)
-- [*Trados Studio 2022 — overview*](trados-00-overview.md)
-- [*Comparison of CATs*](top-comparison.md)
-- [*General recommendations for translating Markdown*](top-general-rec.md)
-
----
-[Back to top](#summary)
+- [*Phrase — overview*](phrase-00-overview)
+- [*Trados Studio 2022 — overview*](trados-00-overview)
+- [*Comparison of CATs*](top-comparison)
+- [*General recommendations for translating Markdown*](top-general-rec)

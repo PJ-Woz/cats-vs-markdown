@@ -1,3 +1,9 @@
+---
+title: Wordfast Pro 8 — settings
+layout: default
+nav_order: 1
+parent: Wordfast Pro 8 — overview
+---
 Wordfast Pro 8
 ===
 
