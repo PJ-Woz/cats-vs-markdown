@@ -1,3 +1,8 @@
+---
+title: Conclusion
+layout: default
+nav_order: 9
+---
 Conclusion
 ===
 
@@ -16,8 +21,5 @@ Analyse your text, analyse available options, and only then choose your CAT.
 ---
 
 Go to sections:
-- [*About*](about.md)
-- [*Glossary of terms*](glossary.md)
- ---
-
-[Back to top](#final-considerations)
+- [*About*](about)
+- [*Glossary of terms*](glossary)

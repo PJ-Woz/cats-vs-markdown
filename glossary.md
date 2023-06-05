@@ -1,4 +1,8 @@
-
+---
+title: Glossary
+layout: default
+nav_order: 10
+---
 # Glossary of terms
 
 # C
@@ -91,8 +95,4 @@ A [**CAT**](#cat) that started first as an add-on to Microsoft Word (now called 
 
 ---
 
-Go to section: [*How do CATs process Markdown files?*](index.md)
-
----
-
-[Back to top](#glossary-of-terms)
+Go to section: [*How do CATs process Markdown files?*](index)

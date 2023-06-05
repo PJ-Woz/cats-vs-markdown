@@ -1,3 +1,8 @@
+---
+title: General recommendations for translating Markdown
+layout: default
+nav_order: 8
+---
 General recommendations for translating Markdown
 ===
 
@@ -10,7 +15,7 @@ These general recommendations are for technical writers (or generally, authors w
 In these recommendations, it is assumed that a technical writer contacts a translator who has little knowledge about Markdown.
 
 - Inform the translator about basic Markdown syntax, because some tags can be shown as text
-	NOTE: Feel free to use this [Markdown guide](resources/markdown-basic-intro.md)
+	NOTE: Feel free to use this [Markdown guide](resources/markdown-basic-intro)
 - As in writing in general, use simple Markdown formatting — do not combine all possible formatting just to make the text really stand out
 - If possible, do not mix Markdown with HTML, JavaScript, JSON, PHP, or similar — put them into separate files
 - Brief the translator on the following issues:
@@ -50,8 +55,4 @@ In these recommendations, it is assumed that a translator has basic knowledge of
 
 ---
 
-Go to section: [*Conclusion*](top-conclusion.md)
-
----
-
-[Back to top](#Overview)
+Go to section: [*Conclusion*](top-conclusion)

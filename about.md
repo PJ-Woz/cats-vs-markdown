@@ -1,3 +1,8 @@
+---
+title: About this project
+layout: default
+nav_order: 11
+---
 # About
 
 <!-- ADD MORE STUFF IF TIME ALLOWS AND PERMITS AND IS KIND-->
@@ -68,4 +73,4 @@ Current version: **1.0**
 
 ---
 
-[Back to top](#about)
+Go to: [*Main page*](index)

@@ -40,12 +40,8 @@ The default settings were used as the basic settings in the study. Then, further
 
 In the `Soft Line Break Type` setting, only the `tag` setting was used in the study. The `break` and `none` settings affected only segmentation rules. As a result, they were omitted in the study.
 
-The behaviour of the settings is described in the [Wordfast — Results](wordfast-02-results.md) section.
+The behaviour of the settings is described in the [Wordfast — Results](wordfast-02-results) section.
 
 ---
 
-Go to section: [*Wordfast — Results*](wordfast-02-results.md)
-
----
-
-[Back to top](#settings)
+Go to section: [*Wordfast — Results*](wordfast-02-results)
