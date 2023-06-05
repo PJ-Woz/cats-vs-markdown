@@ -1,3 +1,9 @@
+---
+title: How do CATs process Markdown files?
+layout: home
+nav_order: 1
+has_children: true
+---
 How do CATs process Markdown files? 
 ===
 
