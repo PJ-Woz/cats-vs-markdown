@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://pj-woz.github.io/cats-vs-markdown
 
+aux_links:
+  Project repository: https://github.com/pj-woz/cats-vs-markdown
+
 footer_content: "&#169; Paweł Woźnikowski, 2023"
 
 back_to_top: true
