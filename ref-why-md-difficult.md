@@ -1,3 +1,9 @@
+---
+title: Why is Markdown difficult for CATs?
+layout: default
+nav_order: 3
+parent: Overview
+---
 # Why is Markdown difficult for CATs?
 
 Because Markdown syntax uses characters that can appear in a text in their normal use and there are different characters that serve the same purpose, it is difficult for CAT software developers to create good Markdown filters. The filters need to sift out Markdown tags and place non-editable tags in a CAT program. The tags in the CAT must be non-editable to avoid accidental editing or deletion.
@@ -59,8 +65,6 @@ Markdown filters in Phrase, Trados Studio 2022, and Wordfast Pro 8 were tested o
 
 ---
 
-Next section: [*The test file*](ref-test-file.md)
+Next section: [*The test file*](ref-test-file)
 
 ---
-
-[Back to top](#why-is-markdown-difficult-in-translation&#63;)

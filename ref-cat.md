@@ -1,3 +1,9 @@
+---
+title: What is a CAT?
+layout: default
+nav_order: 2
+parent: Overview
+---
 # What is a CAT?
 
 A **Computer-Aided Translation** software (in short: a **CAT**) is a program that helps translators translate. Translation is still done by a human, but the CAT facilitates this process with inbuilt features.
@@ -25,7 +31,7 @@ In this project, three CATs are analysed to test how they import and export Mark
 
 In this project, Phrase CAT web editor ver. 23.18.1 was used.
 
-[*Skip to section on Markdown in Phrase*.](phrase-01-settings.md)
+[*Skip to section on Markdown in Phrase*.](phrase-01-settings)
 
 ### Trados Studio 2022
 
@@ -33,7 +39,7 @@ In this project, Phrase CAT web editor ver. 23.18.1 was used.
 
 In this project, Trados Studio 2022 ver. 17.0.4.13209 was used.
 
-[*Skip to section on Markdown in Trados Studio 2022*](trados-01-settings.md)
+[*Skip to section on Markdown in Trados Studio 2022*](trados-01-settings)
 
 ### Wordfast Pro 8
 
@@ -41,7 +47,7 @@ In this project, Trados Studio 2022 ver. 17.0.4.13209 was used.
 
 In this project, Wordfast Pro 8 ver. 8.1.0 was used.
 
-[*Skip to section on Markdown in Wordfast Pro 8*](wordfast-01-settings.md)
+[*Skip to section on Markdown in Wordfast Pro 8*](wordfast-01-settings)
 
 ---
 
@@ -49,15 +55,14 @@ These CATs import Markdown files. However, they do it differently depending on p
 
 ---
 
-Next section: [*Why is Markdown difficult in translation?*](ref-why-md-difficult.md)
+Next section: [*Why is Markdown difficult in translation?*](ref-why-md-difficult)
 
 Skip to section:
-- [*Comparison of the three CATs*](top-comparison.md)
-- [*General recommendations for translating Markdown*](top-general-rec.md)
+- [*Comparison of the three CATs*](top-comparison)
+- [*General recommendations for translating Markdown*](top-general-rec)
 
 ---
 
 References:
-1. [G2: listings of CAT software](https://www.g2.com/categories/computer-assisted-translation)
-
-[Back to top](#what-is-a-cat&#63;)
+[G2: listings of CAT software](https://www.g2.com/categories/computer-assisted-translation)
+---

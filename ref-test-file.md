@@ -1,3 +1,9 @@
+---
+title: The test file
+layout: default
+nav_order: 3
+parent: Overview
+---
 # The test file
 
 To check the settings of the Markdown filter in Phrase, Trados Studio 2022, and Wordfast Pro 8, a test file was prepared. The assumption was to use all basic and extended Markdown tags in different combinations.
@@ -6,7 +12,7 @@ Also, HTML with JavaScript was embedded in the test file, as these are often use
 
 The test file is a Markdown guidebook. It includes a list of Markdown tags, their syntax, and the expected results are presented. That is why Markdown syntax is omitted in this page.
 
-Go to [the test file](resources/Markdown-in-CAT-test.md).
+Go to [the test file](resources/Markdown-in-CAT-test).
 
 # Definitions
 
@@ -22,14 +28,10 @@ In the study, special phrases are used with the following meanings:
 
 ---
 
-Next section: [*Phrase — overview*](phrase-00-overview.md)
+Next section: [*Phrase — overview*](phrase-00-overview)
 
 Skip to section:
-- [*Trados Studio 2022 — overview*](trados-00-overview.md)
-- [*Wordfast Pro 8 — overview*](wordfast-00-overview.md)
-- [*Comparison of CATs*](top-comparison.md)
-- [*General recommendations for translating Markdown*](top-general-rec.md)
-
----
-
-[Back to top](#the-test-file)
+- [*Trados Studio 2022 — overview*](trados-00-overview)
+- [*Wordfast Pro 8 — overview*](wordfast-00-overview)
+- [*Comparison of CATs*](top-comparison)
+- [*General recommendations for translating Markdown*](top-general-rec)
