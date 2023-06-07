@@ -1,3 +1,8 @@
+---
+title: Fix it!
+layout: default
+nav_exclude: true
+---
 # Fix it!
 
 ## Critical

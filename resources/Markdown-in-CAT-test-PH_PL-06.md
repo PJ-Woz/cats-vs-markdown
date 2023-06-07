@@ -1,3 +1,8 @@
+---
+title: Output test file — Phrase, Exclude code elements with unchecked Import code blocks
+layout: default
+nav_exclude: true
+---
 Jak pliki w formacie Markdown są przetwarzane przez Wordfast Pro 8, Trados Studio 2022 i Phrase<!-- omit in toc -->
 ===
 

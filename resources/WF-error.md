@@ -1,3 +1,8 @@
+---
+title: Formatting and import errors in Wordfast Pro 8
+layout: default
+nav_exclude: true
+---
 This is a list of combinations of bold, italics, and strikethrough that causes an import error in Wordfast Pro 8.
 
 Combinations that caused errors are noted with `ERROR!`.

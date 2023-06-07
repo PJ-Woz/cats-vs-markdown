@@ -1,3 +1,8 @@
+---
+title: The test file
+layout: default
+nav_exclude: true
+---
 How Markdown is Processed by Wordfast Pro 8, Trados Studio 2022, and Phrase<!-- omit in toc -->
 ===
 
