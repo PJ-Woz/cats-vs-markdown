@@ -35,7 +35,7 @@ Links to websites are ignored and not shown as CAT tags. However, the alt text f
 
 There is often a discrepancy between what is seen in the editor and what actually works or does not work in the output file.
 
-# [Plain](resources/Markdown-in-CAT-test-PH_PL-01.md)
+# [Plain](resources/Markdown-in-CAT-test-PH_PL-01){:target="_blank"}
 
 ## Basic syntax
 
@@ -116,7 +116,7 @@ HTML is shown as text. Otherwise, it works as intended in the output file
 
 The rest works as intended.
 
-# [PHP/Python Markdown extra](resources/Markdown-in-CAT-test-PH_PL-02.md)
+# [PHP/Python Markdown extra](resources/Markdown-in-CAT-test-PH_PL-02){:target="_blank"}
 
 ## Basic syntax
 
@@ -146,7 +146,7 @@ The rest works as intended or as above.
 
 HTML and other tags work as intended or as above.
 
-# [GitHub flavoured Markdown](resources/Markdown-in-CAT-test-PH_PL-03.md)
+# [GitHub flavoured Markdown](resources/Markdown-in-CAT-test-PH_PL-03){:target="_blank"}
 
 ## Basic syntax
 
@@ -178,13 +178,13 @@ HTML and other tags work as intended or as above.
 
 **IMPORTANT:** This flavour setting works best out of the three, so it will be used in further study.
 
-# [Preserve whitespaces](resources/Markdown-in-CAT-test-PH_PL-04.md)
+# [Preserve whitespaces](resources/Markdown-in-CAT-test-PH_PL-04){:target="_blank"}
 
 Generally, the segmentation changed, but the output file is similar to the one in the [GitHub flavoured Markdown](#github-flavoured-markdown) setting.
 
 As a result, no detailed study is presented.
 
-# [Exclude code elements](resources/Markdown-in-CAT-test-PH_PL-05.md)
+# [Exclude code elements](resources/Markdown-in-CAT-test-PH_PL-05){:target="_blank"}
 
 Generally, this setting works similarly to [GitHub flavoured Markdown](#github-flavoured-markdown) with one exception.
 
@@ -192,7 +192,7 @@ Inline code is ignored.
 
 As a result, no detailed study is presented.
 
-# [Exclude code elements with unchecked import code blocks](resources/Markdown-in-CAT-test-PH_PL-06.md)
+# [Exclude code elements with unchecked import code blocks](resources/Markdown-in-CAT-test-PH_PL-06){:target="_blank"}
 
 Generally, this setting works similarly to [Exclude code elements](#exclude-code-elements) with one exception.
 
@@ -203,5 +203,3 @@ As a result, no detailed study is presented.
 ---
 
 Go to section: [*Phrase — summary and recommendations*](phrase-03-summary-and-recommendations)
-
----
