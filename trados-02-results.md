@@ -20,7 +20,7 @@ The links in the headers lead to the files translated with given settings.
 
 **NOTE**:
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file.md#definitions).
-The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult.md).
+The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
 # General results
@@ -59,7 +59,7 @@ The translated hover text `I am what I play` (in Polish `Jestem tym, co gram`) f
 
 The links in the headers lead to output files — the files translated with given settings.
 
-# [Default settings](Markdown-in-CAT-test-TS_PL-01.md)
+# [Default settings](resources/Markdown-in-CAT-test-TS_PL-01){:target="_blank"}
 
 ## Basic syntax
 
@@ -105,11 +105,11 @@ Definition is ignored.
 
 The content of the embedded HTML section is ignored.
 
-# [Handle line breaks as inline tags](Markdown-in-CAT-test-TS_PL-02.md)
+# [Handle line breaks as inline tags](resources/Markdown-in-CAT-test-TS_PL-02){:target="_blank"}
 
 This setting works like [default settings](#default-settings), only segmentation changed. As a result, further analysis is omitted.
 
-# [Translate code blocks with embedded content plain text v 1.0.0.0](Markdown-in-CAT-test-TS_PL-03.md)
+# [Translate code blocks with embedded content plain text v 1.0.0.0](resources/Markdown-in-CAT-test-TS_PL-03){:target="_blank"}
 
 ## Basic syntax
 
@@ -151,7 +151,7 @@ HTML and other tags work as intended or as above.
 
 After trial and error, it was discovered that error is caused by backtick <code>`</code>. As a result, no study was carried out for that setting.
 
-# [Translate code blocks with HTML embedded content 5 2.0.0.0](Markdown-in-CAT-test-TS_PL-04.md)
+# [Translate code blocks with HTML embedded content 5 2.0.0.0](resources/Markdown-in-CAT-test-TS_PL-04){:target="_blank"}
 
 <kbd>&#128008;CAT EDITOR ISSUE</kbd>: This setting generates the following error.
 
@@ -167,7 +167,7 @@ Apart from that, the text differs in segmentation, but the general behaviour sta
 
 As a result, no further study is carried out.
 
-# [Translate HTML blocks with embedded content plain text v 1.0.0.0](Markdown-in-CAT-test-TS_PL-05.md)
+# [Translate HTML blocks with embedded content plain text v 1.0.0.0](resources/Markdown-in-CAT-test-TS_PL-05){:target="_blank"}
 
 It is used in combination with [Translate code blocks with embedded content plain text v 1.0.0.0](#Translate-code-blocks-embedded-content-plain-text-v-1.0.0.0), because this gave the least number errors.
 
@@ -209,7 +209,7 @@ This setting generates the following error:
 
 As a result, no study was carried out for that setting.
 
-# [Translate HTML blocks with HTML embedded content 5 2.0.0.0](resources/Markdown-in-CAT-test-TS_PL-06.md)
+# [Translate HTML blocks with HTML embedded content 5 2.0.0.0](resources/Markdown-in-CAT-test-TS_PL-06){:target="_blank"}
 
 
 ## Basic syntax
@@ -239,5 +239,3 @@ The rest works as intended or as above.
 ---
 
 Next section: [*Trados Studio 2022 — summary and recommendations*](trados-03-summary-and-recommendations)
-
----

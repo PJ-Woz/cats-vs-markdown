@@ -20,7 +20,7 @@ The links in the headers lead to the files translated with given settings.
 
 **NOTE**:
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file.md#definitions).
-The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult.md).
+The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
 # General results
@@ -69,7 +69,7 @@ Other general remarks on Wordfast Pro:
 
 The links in the headers lead to output files — the files translated with given settings.
 
-# [Default format settings with extract table headers](./resources/Markdown-in-CAT-test-WF_PL-01.md)
+# [Default format settings with extract table headers](./resources/Markdown-in-CAT-test-WF_PL-01){:target="_blank"}
 
 ## Basic syntax
 
@@ -121,7 +121,7 @@ The rest works as intended.
 
 The rest, including the text in the embedded HTML, works as intended.
 
-# [Extract image alt text](./resources/Markdown-in-CAT-test-WF_PL-02.md)
+# [Extract image alt text](./resources/Markdown-in-CAT-test-WF_PL-02){:target="_blank"}
 
 ## Basic syntax
 
@@ -147,7 +147,7 @@ Extended syntax works as intended or as above. This means that some content in t
 
 HTML and other tags work as intended or as above.
 
-# [Extract image link value](./resources/Markdown-in-CAT-test-WF_PL-03.md)
+# [Extract image link value](./resources/Markdown-in-CAT-test-WF_PL-03){:target="_blank"}
 
 ## Basic syntax
 
@@ -174,7 +174,7 @@ Extended syntax works as intended or as above. This means that some content in t
 
 HTML and other tags work as intended or as above.
 
-# [Extract image title](./resources/Markdown-in-CAT-test-WF_PL-04.md)
+# [Extract image title](./resources/Markdown-in-CAT-test-WF_PL-04){:target="_blank"}
 
 ## Basic syntax
 
@@ -208,7 +208,7 @@ Extended syntax works as intended or as above. This means that some content in t
 
 HTML and other tags work as intended or as above.
 
-# [Extract href link URL value](./resources/Markdown-in-CAT-test-WF_PL-05.md)
+# [Extract href link URL value](./resources/Markdown-in-CAT-test-WF_PL-05){:target="_blank"}
 
 ## Basic syntax
 
@@ -240,7 +240,7 @@ The rest works as intended or as above.
 
 HTML and other tags work as intended or as above.
 
-# [Extract href link URL title](./resources/Markdown-in-CAT-test-WF_PL-06.md)
+# [Extract href link URL title](./resources/Markdown-in-CAT-test-WF_PL-06){:target="_blank"}
 
 ## Basic syntax
 
@@ -275,5 +275,3 @@ HTML and other tags work as intended or as above.
 ---
 
 Next section: [*Wordfast Pro 8 — summary and recommendations*](wordfast-03-summary-and-recommendations)
-
----
