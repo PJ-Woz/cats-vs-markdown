@@ -1,3 +1,8 @@
+---
+title: Output test file — Trados, Translate code blocks with embedded content plain text v 1.0.0.0
+layout: default
+nav_exclude: true
+---
 Jak pliki w formacie Markdown są przetwarzane przez Wordfast Pro, Trados Studio 2022 i Phrase<!-- omit in toc -->
 ===
 

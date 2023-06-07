@@ -1,3 +1,8 @@
+---
+title: Output test file — Wordfast, Default format settings with extract table headers
+layout: default
+nav_exclude: true
+---
 Jak pliki w formacie Markdown są przetwarzane przez Wordfast Pro, Trados Studio 2022 i Phrase<!-- omit in toc -->
 ===
 

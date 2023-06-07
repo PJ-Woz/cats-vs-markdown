@@ -42,7 +42,7 @@ Interestingly, the error did not appear when the lines were turned into inline c
 
 It was difficult to establish what exactly caused the error. It is assumed that bold and italics next to each other within or outside strikethrough may cause it.
 
-Different combinations of bold, italics, and strikethrough are covered in the [Wordfast Pro table error file](./resources/WF-error.md).
+Different combinations of bold, italics, and strikethrough are covered in the [Wordfast Pro table error file](resources/WF-error){:target="_blank"}.
 
 To continue the test, the two lines were changed into inline code and a slightly changed [test file](./resources/Markdown-in-CAT-test-Wordfast Pro.md)  was used.
 
