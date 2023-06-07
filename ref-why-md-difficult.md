@@ -15,7 +15,7 @@ However, some Markdown tags must be editable to a certain degree:
 2. ![Shark](resources/images/IMG_20200401_210429.jpg "A Technical Writer Shark")
 ```
 
-In the first example, `**` is a tag for **bold**. We do not want the CAT to interpret it as two asterisks, because they may be accidentally changed or deleted. As a result, the CAT should place a non-editable opening [tag](glossary.md#cat,-tag) where the text in bold starts and a closing tag where the text in bold ends. However, we **do** want the one asterisk to be shown normally.
+In the first example, `**` is a tag for **bold**. We do not want the CAT to interpret it as two asterisks, because they may be accidentally changed or deleted. As a result, the CAT should place a non-editable opening [tag](glossary#cat,-tag) where the text in bold starts and a closing tag where the text in bold ends. However, we **do** want the one asterisk to be shown normally.
 
 In the second example, the whole line is a reference to a displayed image file with a hover text `A Technical Writer Shark`. In this case, we want the CAT to interpret `Shark` and `A Technical Writer Shark` as translatable, but leave the brackets and link to the image file as non-translatable.
 
@@ -66,5 +66,3 @@ Markdown filters in Phrase, Trados Studio 2022, and Wordfast Pro 8 were tested o
 ---
 
 Next section: [*The test file*](ref-test-file)
-
----

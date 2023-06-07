@@ -34,5 +34,3 @@ Skip to section:
 - [*Wordfast Pro 8 — overview*](wordfast-00-overview)
 - [*Comparison of CATs*](top-comparison)
 - [*General recommendations for translating Markdown*](top-general-rec)
-
----

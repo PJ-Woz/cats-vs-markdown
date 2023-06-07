@@ -10,7 +10,7 @@ Wordfast Pro 8
 # How to open Markdown settings in Wordfast
 
 1. Go to `Preferences`
-	- Note: Unlike in [Phrase](phrase-01-settings.md) or [Trados](trados-01-settings.md), you do not have to create a new project to configure Markdown settings.
+	- Note: Unlike in [Phrase](phrase-01-settings) or [Trados](trados-01-settings), you do not have to create a new project to configure Markdown settings.
 2. Go to `New Project Preferences>Filters`.
 3. In the `Available filters` list, scroll down to `Markdown file` or type `Markdown` in the search field.
 4. Click the `Markdown file` button to open the Markdown settings as seen in the image below.

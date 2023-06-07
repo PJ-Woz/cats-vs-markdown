@@ -25,5 +25,3 @@ The discussion of the test file in Phrase is grouped into three sections:
 ---
 
 Next section: [*Settings*](phrase-01-settings)
-
----

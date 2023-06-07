@@ -45,5 +45,3 @@ The behaviour of the settings is described in the [Phrase — results](phrase-02
 ---
 
 Go to section: [*Phrase — results*](phrase-02-results)
-
----

@@ -71,4 +71,4 @@ You can read this study as a whole or just the sections that are of interest to 
 
 ---
 
-Next section: *[Overview](ref-overview)*
+Next section: [*Overview*](ref-overview)

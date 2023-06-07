@@ -7,9 +7,9 @@ nav_exclude: true
 
 ## Critical
 
-- links to output files
-  - min. ver: for DL
-  - max. ver: yml headers in them
+- ~~links to output files~~
+  - ~~min. ver: for DL~~
+  - ~~max. ver: yml headers in them~~
 - check `*.md` and remove
 - add site logo
 - add callouts

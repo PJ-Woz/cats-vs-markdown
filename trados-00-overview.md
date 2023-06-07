@@ -24,11 +24,9 @@ The discussion of the test file in Trados is grouped into three sections:
 
 ---
 
-Next section: [*Trados Studio 2022 — Settings*](trados-01-settings.md)
+Next section: [*Trados Studio 2022 — Settings*](trados-01-settings)
 
 ---
 
 References:
 [Tabor, Jared "CAT tool use by translators: what are they using?", Proz.com, access 2023-05-16](https://go.proz.com/blog/cat-tool-use-by-translators-what-are-they-using)
-
----

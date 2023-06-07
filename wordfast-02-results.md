@@ -19,7 +19,7 @@ The links in the headers lead to the files translated with given settings.
 **IMPORTANT**: Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. The fact that a feature does not work in GitHub preview does not mean it is caused by the incorrect output from the CAT. Various flavours ("dialects") of Markdown render more sophisticated syntax differently on different platforms.
 
 **NOTE**:
-The meanings of several phrases used in this section can be found in [Definitions](ref-test-file.md#definitions).
+The meanings of several phrases used in this section can be found in [Definitions](ref-test-file#definitions).
 The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
@@ -44,7 +44,7 @@ It was difficult to establish what exactly caused the error. It is assumed that 
 
 Different combinations of bold, italics, and strikethrough are covered in the [Wordfast Pro table error file](resources/WF-error){:target="_blank"}.
 
-To continue the test, the two lines were changed into inline code and a slightly changed [test file](./resources/Markdown-in-CAT-test-Wordfast Pro.md)  was used.
+To continue the test, the two lines were changed into inline code and a slightly changed [test file](resources/Markdown-in-CAT-test-Wordfast-Pro)  was used.
 
 Once opened, Markdown formatting is displayed as CAT tags:
 

@@ -20,5 +20,3 @@ This section covers basic information on Markdown, CAT software, and the difficu
 ---
 
 Next section: [*What is Markdown?*](ref-markdown)
-
----

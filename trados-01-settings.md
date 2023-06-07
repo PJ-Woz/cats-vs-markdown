@@ -41,6 +41,4 @@ The behaviour of the settings is described in the [Trados Studio 2022 — result
 
 ---
 
-Go to section: [*Trados Studio 2022 — results*](trados-02-results) 
-
----
+Go to section: [*Trados Studio 2022 — results*](trados-02-results)
