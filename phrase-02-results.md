@@ -20,7 +20,7 @@ The links in the headers lead to the files translated with given settings.
 
 **NOTE**:
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file.md#definitions).
-The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult.md).
+The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
 # General results

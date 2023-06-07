@@ -33,7 +33,7 @@ Markdown is used for creating notes, presentations, and even simple websites. Fo
 
 Markdown is also used to create technical documentation, usually to document code. As a result, there may be a need to translate documentation into other languages. Technical texts are rarely translated by simply substituting one language with another in the source file. To make the process smoother, Computer-Aided Translation software is used.
 
-NOTE: If you want to learn Markdown basics, use [this guide](resources/markdown-basic-intro).
+NOTE: If you want to learn Markdown basics, use [this guide](resources/markdown-basic-intro){:target="_blank"}.
 
 ---
 
