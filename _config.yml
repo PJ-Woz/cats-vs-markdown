@@ -18,7 +18,7 @@ color_scheme: thorium
 callouts:
   note:
     title: note
-    color: $grey-lt-100
+    color: grey-lt
 
 back_to_top: true
 
