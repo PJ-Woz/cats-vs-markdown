@@ -13,6 +13,8 @@ logo: "resources/images/logo-v2-1.png"
 
 favicon_ico: "/resources/images/favicon.ico"
 
+color_scheme: thorium
+
 back_to_top: true
 
 back_to_top_text: "Back to top"
