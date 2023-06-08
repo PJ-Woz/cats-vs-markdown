@@ -14,7 +14,7 @@ Phrase
 
 In this project, Phrase CAT web editor ver. 23.18.1 was used.
 
-Phrase was chosen, because the author uses a Phrase CAT editor thanks to the courtesy of a translation agency. However, a trial account was created to configure Markdown filters and import the test file.
+Phrase was chosen because the author uses a Phrase CAT editor thanks to the courtesy of a translation agency. However, a trial account was created to configure Markdown filters and import the test file.
 
 The discussion of the test file in Phrase is grouped into three sections:
 

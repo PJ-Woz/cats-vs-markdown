@@ -5,8 +5,6 @@ nav_order: 11
 ---
 # About
 
-<!-- ADD MORE STUFF IF TIME ALLOWS AND PERMITS AND IS KIND-->
-
 This section is about the project, references, and the author. Here you can learn the details about how the project was created, why this topic was selected, and what tools were used.
 
 Here I'd like to mention [Kacper Bojakowski's](https://github.com/kacperbojakowski) project [Technical Writing for Translators](https://kacperbojakowski.github.io/final-project/) as a source of inspiration for the form of my project, even though the topic is radically different.
@@ -32,13 +30,6 @@ Here are some details about the project:
 **Supervisor**: [Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/)
 
 **Peer Reviewers**: [Justyna Kula](https://www.linkedin.com/in/justyna-kula-5778a391/), [Monika Klimek](https://www.linkedin.com/in/monika-klimek1/)
-
-<!-- ADD MORE STUFF IF TIME ALLOWS AND PERMITS AND IS KIND
-E.g. 
-- why this topic - background
-- why Obsidian
-- acknowledgements
--->
 
 # References
 

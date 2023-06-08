@@ -169,7 +169,7 @@ As a result, no further study is carried out.
 
 # [Translate HTML blocks with embedded content plain text v 1.0.0.0](resources/Markdown-in-CAT-test-TS_PL-05){:target="_blank"}
 
-It is used in combination with [Translate code blocks with embedded content plain text v 1.0.0.0](#Translate-code-blocks-embedded-content-plain-text-v-1.0.0.0), because this gave the least number errors.
+It is used in combination with [Translate code blocks with embedded content plain text v 1.0.0.0](#Translate-code-blocks-embedded-content-plain-text-v-1.0.0.0) because this gave the least number errors.
 
 # Results
 
