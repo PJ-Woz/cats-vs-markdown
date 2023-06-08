@@ -40,13 +40,13 @@ In the first example, we may want to translate the content of the inline code, w
 
 - code block:
 ```
-	```
+	\```
 	<script>
 	function myFunction() {
 	  document.getElementById("demo").innerHTML = "Paragraph changed.";
 	}
 	</script>
-	```
+	\```
 ```
 
 In this example, the use case may be to leave the whole code block as non-translatable. However, if the variables are to be translated as well, then the code block must be imported into the CAT editor.
