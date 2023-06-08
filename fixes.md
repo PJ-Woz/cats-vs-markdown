@@ -11,14 +11,14 @@ nav_exclude: true
   - ~~min. ver: for DL~~
   - ~~max. ver: yml headers in them~~
 - ~~check `*.md` and remove~~
-- add site logo
+- ~~add site logo~~
 - add callouts
 
 ## Non-critical
 
 - add colours
 - ~~lines at the bottom of the page - it's not necessary~~
-- add site favicon
+- ~~add site favicon~~
 - add collapsible tocs where necessary
 - add pictures
 
