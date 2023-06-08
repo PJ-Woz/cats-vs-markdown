@@ -9,6 +9,10 @@ aux_links:
 
 footer_content: "&#169; Paweł Woźnikowski, 2023"
 
+logo: "resources/images/CATS-VS-MARKDOWN-2.png"
+
+favicon_ico: "resources/images/favicon.ico"
+
 back_to_top: true
 
 back_to_top_text: "Back to top"
