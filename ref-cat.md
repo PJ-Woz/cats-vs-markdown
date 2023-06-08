@@ -64,4 +64,5 @@ Skip to section:
 ---
 
 References:
+
 [G2: listings of CAT software](https://www.g2.com/categories/computer-assisted-translation)
