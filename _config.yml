@@ -17,8 +17,11 @@ color_scheme: thorium
 
 callouts:
   note:
-    title: note
+    title: Note
     color: purple
+  important:
+    title: Important
+    color: yellow
 
 back_to_top: true
 

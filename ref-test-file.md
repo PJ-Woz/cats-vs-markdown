@@ -11,7 +11,7 @@ Also, HTML with JavaScript was embedded in the test file, as these are often use
 
 The test file is a Markdown guidebook. It includes a list of Markdown tags, their syntax, and the expected results are presented. That is why Markdown syntax is omitted in this page.
 
-Go to [the test file](resources/Markdown-in-CAT-test).
+Go to [the test file](resources/Markdown-in-CAT-test){:target="_blank"}.
 
 # Definitions
 

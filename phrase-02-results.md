@@ -18,9 +18,9 @@ The links in the headers lead to the files translated with given settings.
 
 **IMPORTANT**: Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. The fact that a feature does not work in GitHub preview does not mean it is caused by the incorrect output from the CAT. Various flavours ("dialects") of Markdown render more sophisticated syntax differently on different platforms.
 
-**NOTE**:
+{: .note }
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file#definitions).
-The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?**](ref-why-md-difficult).
+The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?*](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
 # General results

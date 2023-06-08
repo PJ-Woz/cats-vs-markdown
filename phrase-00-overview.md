@@ -10,7 +10,7 @@ Phrase
 
 # Overview
 
-[Phrase](https://phrase.com/) (earlier: Memsource) is a cloud-based translation management system, which also includes a CAT tool. It is completely web-based, meaning it is used via a web browser.
+[Phrase](https://phrase.com/){:target="_blank"} (earlier: Memsource) is a cloud-based translation management system, which also includes a CAT tool. It is completely web-based, meaning it is used via a web browser.
 
 In this project, Phrase CAT web editor ver. 23.18.1 was used.
 
