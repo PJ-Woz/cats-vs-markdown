@@ -16,7 +16,8 @@ The test was carried out by checking the boxes in the settings. This made the CA
 
 The links in the headers lead to the files translated with given settings.
 
-**IMPORTANT**: Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. The fact that a feature does not work in GitHub preview does not mean it is caused by the incorrect output from the CAT. Various flavours ("dialects") of Markdown render more sophisticated syntax differently on different platforms.
+{: .important }
+Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. The fact that a feature does not work in GitHub preview does not mean it is caused by the incorrect output from the CAT. Various flavours ("dialects") of Markdown render more sophisticated syntax differently on different platforms.
 
 {: .note }
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file#definitions).

@@ -26,3 +26,9 @@ nav_exclude: true
 
 - read
 - re-click
+
+{:target="_blank"}
+
+{: .important }
+
+{: .note }

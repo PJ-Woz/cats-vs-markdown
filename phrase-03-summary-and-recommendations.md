@@ -22,10 +22,10 @@ In general, Phrase is a good tool to translate Markdown files when specific sett
 ## Disadvantages
 
 - Only GitHub flavoured Markdown yields satisfactory results
-	- [Plain](phrase-02-results#plain) Markdown flavour creates an output file that is useless, as restoring it to a usable state would take much time
+	- [Plain](phrase-02-results#plain){:target="_blank"} Markdown flavour creates an output file that is useless, as restoring it to a usable state would take much time
 - Markdown reference in links cannot be translated, which makes it impossible to translate a table of contents or all other references to headers in Markdown files
 - Many different features stop working in the output file, even though they look good in the editor
-	- Notable exception: [GitHub flavoured Markdown](phrase-02-results#github-flavoured-markdown)
+	- Notable exception: [GitHub flavoured Markdown](phrase-02-results#github-flavoured-markdown){:target="_blank"}
 - Comments `<!-- comment example -->` are ignored and cannot be translated
 - Emoji is shown as text, which makes it difficult for Machine Translation
 
@@ -37,8 +37,8 @@ This section contains recommendations for technical writers (or generally, autho
 
 - Inform the translator about basic Markdown syntax, because some tags can be shown as text
 - Inform the translator about HTML or quoted code syntax, because the content in the code block is shown as text
-- Instruct the translator to use [PHP/Python Markdown Extra](phrase-02-results#php&#47;python-markdown-extra) or [GitHub Flavoured Markdown](phrase-02-results#gitHub-flavoured-markdown) and inform about their limitations
-- Instruct the translator **NOT TO USE** [Plain Markdown flavour](phrase-02-results#plain) 
+- Instruct the translator to use [PHP/Python Markdown Extra](phrase-02-results#php-&#47;-python-markdown-extra){:target="_blank"} or [GitHub Flavoured Markdown](phrase-02-results#github-flavoured-markdown){:target="_blank"} and inform about their limitations
+- Instruct the translator **NOT TO USE** [Plain Markdown flavour](phrase-02-results#plain){:target="_blank"}
 - If references are to be translated, inform the translator:
 	- The references need to be translated in the Markdown file
 	- How to open a Markdown file
@@ -53,9 +53,9 @@ This section contains recommendations for technical writers (or generally, autho
 
 ## Recommendations for translators
 
-- Use [PHP/Python Markdown Extra](phrase-02-results#php**&#47;**python-markdown-extra) if no lists are used, but footnotes are
-- Use [GitHub Flavoured Markdown](phrase-02-results#GitHub-flavoured-markdown) if lists are used, but not footnotes
-- **DO NOT USE** [Plain Markdown flavour](phrase-02-results#plain) unless the source file consists of bold and italics only
+- Use [PHP/Python Markdown Extra](phrase-02-results#php-&#47;-python-markdown-extra){:target="_blank"} if no lists are used, but footnotes are
+- Use [GitHub Flavoured Markdown](phrase-02-results#github-flavoured-markdown){:target="_blank"} if lists are used, but not footnotes
+- **DO NOT USE** [Plain Markdown flavour](phrase-02-results#plain){:target="_blank"} unless the source file consists of bold and italics only
 	- for safety, do not use it at all
 - Adapt the settings to your needs — if the inline code or code block do not contain translatable content, uncheck `Include code blocks` and `Exclude code elements` to avoid accidental editing
 - Make sure you do not edit something that may be a tag when you translate the content of the inline code or code block
