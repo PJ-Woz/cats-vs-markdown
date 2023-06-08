@@ -43,6 +43,7 @@ Next section: [*What is a CAT?*](ref-cat)
 ---
 
 *References:*
+
 [Britannica](https://www.britannica.com/technology/markup-language)
 
 [Daring Fireball](https://daringfireball.net/projects/markdown/)
