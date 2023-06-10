@@ -25,7 +25,7 @@ Here are some details about the project:
 
 **Software — Primary**: [Phrase](https://phrase.com/), [Trados Studio](https://www.trados.com/products/trados-studio/whats-new-studio-2022.html), [Wordfast Pro](https://www.wordfast.com/products/wordfast_pro)
 
-**Software — Tools**: [GitHub Desktop](https://desktop.github.com/), [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel) [Obsidian](https://obsidian.md/), [Snip & Sketch](https://en.wikipedia.org/wiki/Snipping_Tool), [Table to Markdown](https://tabletomarkdown.com), [Total Commander](https://www.ghisler.com/), [Visual Studio Code](https://code.visualstudio.com/)
+**Software — Tools**: [Canva](https://www.canva.com/), [GitHub Desktop](https://desktop.github.com/), [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel) [Obsidian](https://obsidian.md/), [Snip & Sketch](https://en.wikipedia.org/wiki/Snipping_Tool), [Table to Markdown](https://tabletomarkdown.com), [Total Commander](https://www.ghisler.com/), [Visual Studio Code](https://code.visualstudio.com/)
 
 **Supervisor**: [Marta Bartnicka](https://www.linkedin.com/in/marta-bartnicka-713969/)
 
