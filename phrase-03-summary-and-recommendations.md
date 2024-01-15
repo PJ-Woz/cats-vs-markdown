@@ -35,8 +35,8 @@ This section contains recommendations for technical writers (or generally, autho
 
 ## Recommendations for technical writers
 
-- Inform the translator about basic Markdown syntax, because some tags can be shown as text
-- Inform the translator about HTML or quoted code syntax, because the content in the code block is shown as text
+- Inform the translator about basic Markdown syntax because some tags can be shown as text
+- Inform the translator about HTML or quoted code syntax because the content in the code block is shown as text
 - Instruct the translator to use [PHP/Python Markdown Extra](phrase-02-results#php-&#47;-python-markdown-extra){:target="_blank"} or [GitHub Flavoured Markdown](phrase-02-results#github-flavoured-markdown){:target="_blank"} and inform about their limitations
 - Instruct the translator **NOT TO USE** [Plain Markdown flavour](phrase-02-results#plain){:target="_blank"}
 - If references are to be translated, inform the translator:
