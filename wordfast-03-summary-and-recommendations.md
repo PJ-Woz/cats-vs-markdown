@@ -4,17 +4,17 @@ layout: default
 nav_order: 2
 parent: Wordfast Pro 8 — overview
 ---
-# Summary
+## Summary
 
 In general, Wordfast Pro 8 is a good tool to translate Markdown files despite the import error in the beginning.
 
-## Advantages
+### Advantages
 
 - Markdown reference in links can be translated, which makes it possible to translate a table of contents and all other references to headers in Markdown files
 - Many filter settings allow rich configuration options for importing Markdown files
 - Imports the content of embedded HTML code
 
-## Disadvantages
+### Disadvantages
 
 - Inline code is ignored and cannot be translated
 - Code block is ignored and cannot be translated
@@ -22,11 +22,11 @@ In general, Wordfast Pro 8 is a good tool to translate Markdown files despite th
 - Bizarre behaviour of tables
 - Very complex combinations of Markdown tags or with HTML tags may cause problems or make the Markdown tags shown as text; however, in the case of HTML tags this has more to do with the general behaviour between HTML and Markdown tags
 
-# Recommendations for translation of Markdown files in Wordfast Pro
+## Recommendations for translation of Markdown files in Wordfast Pro
 
 This section contains recommendations for technical writers (or generally, authors writing in Markdown) and translators.
 
-## Recommendations for technical writers
+### Recommendations for technical writers
 
 - Avoid combining bold, italic, and strikethrough — some combinations may cause importing errors
 - Inform the translator about basic Markdown syntax, because some tags can be shown as text
@@ -39,7 +39,7 @@ This section contains recommendations for technical writers (or generally, autho
 - If extended Markdown syntax or HTML tags, inform the translator that there may be characters that are not used in a standard way in the source language and tell the translator what to do with them
 - Encourage the translator to contact you if the CAT editor shows any characters that are not used in a standard way in the source language as these are most likely tags
 
-## Recommendations for translators
+### Recommendations for translators
 
 - Tick all settings for best performance, even if it means pasting links
 - Contact the technical writer if the source text in the CAT editor shows unexpected characters, as they may be part of Markdown or HTML syntax shown as text

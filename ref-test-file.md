@@ -3,7 +3,7 @@ title: The test file
 layout: default
 nav_order: 3
 ---
-# The test file
+## The test file
 
 To check the settings of the Markdown filter in Phrase, Trados Studio 2022, and Wordfast Pro 8, a test file was prepared. The assumption was to use all basic and extended Markdown tags in different combinations.
 
@@ -13,7 +13,7 @@ The test file is a Markdown guidebook. It includes a list of Markdown tags, thei
 
 Go to [the test file](resources/Markdown-in-CAT-test){:target="_blank"}.
 
-# Definitions
+## Definitions
 
 In the study, special phrases are used with the following meanings:
 1. <kbd>&#128008;CAT EDITOR ISSUE</kbd>  — this means that there is a problem in the CAT editor

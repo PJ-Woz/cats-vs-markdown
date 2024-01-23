@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 parent: Overview
 ---
-# Why is Markdown difficult for CATs?
+## Why is Markdown difficult for CATs?
 
 Because Markdown syntax uses characters that can appear in a text in their normal use and there are different characters that serve the same purpose, it is difficult for CAT software developers to create good Markdown filters. The filters need to sift out Markdown tags and place non-editable tags in a CAT program. The tags in the CAT must be non-editable to avoid accidental editing or deletion.
 
@@ -21,7 +21,7 @@ In the second example, the whole line is a reference to a displayed image file w
 
 That is why the difficulty lies in using such filters that interpret asterisks or brackets as Markdown tags, while also interpret them as normal characters used in the text. This is made difficult even further when combined with other characters that build up Markdown tags.
 
-# Fringe cases for translation Markdown
+## Fringe cases for translation Markdown
 
 There are cases that we may — or may not — want to translate some content within Markdown tags, namely:
 
@@ -54,12 +54,12 @@ In this example, the use case may be to leave the whole code block as non-transl
 - comments:
 ```markdown
 1. This is a section on **bold**. <!-- Please write below your own examples. -->
-2. # The one and only Markdown guide you'll ever need  <!-- Marketing said we needed a more flashy header -->
+2. ## The one and only Markdown guide you'll ever need  <!-- Marketing said we needed a more flashy header -->
 ```
 
 In this example, there is a need to translate the comment as it contains an instruction for the reader. In the second example, the comment does not have to be translated if it is an internal comment in an English speaking team.
 
-# The CATs and testing Markdown
+## The CATs and testing Markdown
 
 Markdown filters in Phrase, Trados Studio 2022, and Wordfast Pro 8 were tested on various Markdown tags in different combinations. A special test file was created for this purpose.
 

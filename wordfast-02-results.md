@@ -7,7 +7,7 @@ parent: Wordfast Pro 8 — overview
 Wordfast Pro 8 
 ===
 
-# Wordfast results
+## Wordfast results
 
 <!-- REUSE COMP BGN -->
 The results for individual settings are grouped according to the sections in the test file. If a feature is not mentioned, it means it works as intended — it was imported correctly into the editor and produced the correct output in the exported file.
@@ -34,7 +34,7 @@ Table of contents:
 - [Extract href link URL value{:target="\_blank"}](#extract-href-link-url-valuetarget_blank)
 - [Extract href link URL title{:target="\_blank"}](#extract-href-link-url-titletarget_blank)
 
-# General results
+## General results
 
 The first obstacle was that Wordfast could not import the test file:
 
@@ -80,13 +80,13 @@ Other general remarks on Wordfast Pro:
 
 The links in the headers lead to output files — the files translated with given settings.
 
-# [Default format settings with extract table headers](./resources/Markdown-in-CAT-test-WF_PL-01){:target="_blank"}
+## [Default format settings with extract table headers](./resources/Markdown-in-CAT-test-WF_PL-01){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended.
 
-## Links
+### Links
 
 Reference is not fully translatable: the display text in square brackets is translatable, but the reference content in round brackets is not translatable as in `[Składnia podstawowa](#basic-syntax)`.
 
@@ -96,7 +96,7 @@ Hover text is ignored.
 
 The rest works as intended.
 
-## Quotations
+### Quotations
 
 Inline code is ignored.
 
@@ -106,7 +106,7 @@ Block code with JavaScript comment is ignored.
 
 The rest works as intended.
 
-## Extended syntax
+### Extended syntax
 
 <kbd>&#128008;CAT EDITOR ISSUE</kbd>: Some content in the table was deleted. As a result, it did not appear in the output file.
 
@@ -122,7 +122,7 @@ Comments to be omitted are ignored.
 
 The rest works as intended.
 
-## HTML and other tags
+### HTML and other tags
 
 <kbd>&#128228;OUPUT FILE ISSUE</kbd>: The Markdown table in the collapsed section does not work.
 
@@ -132,13 +132,13 @@ The rest works as intended.
 
 The rest, including the text in the embedded HTML, works as intended.
 
-# [Extract image alt text](./resources/Markdown-in-CAT-test-WF_PL-02){:target="_blank"}
+## [Extract image alt text](./resources/Markdown-in-CAT-test-WF_PL-02){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended.
 
-## Links
+### Links
 
 Image alt text is now translatable, but not the hover text:
 
@@ -146,25 +146,25 @@ Image alt text is now translatable, but not the hover text:
 
 The rest works as intended or as above.
 
-## Quotations
+### Quotations
 
 Quotations work as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Extended syntax works as intended or as above. This means that some content in the table was again deleted. As a result, it did not appear in the output file.
 
-## HTML and other tags
+### HTML and other tags
 
 HTML and other tags work as intended or as above.
 
-# [Extract image link value](./resources/Markdown-in-CAT-test-WF_PL-03){:target="_blank"}
+## [Extract image link value](./resources/Markdown-in-CAT-test-WF_PL-03){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended.
 
-## Links
+### Links
 
 Image link values are now imported:
 ![Wordfast editor view showing segments with extracted URLs](resources/images/screenshots/pasted-image-20230516001100.png)
@@ -173,25 +173,25 @@ Image link values are now imported:
 
 The rest works as intended or as above.
 
-## Quotations
+### Quotations
 
 Quotations work as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Extended syntax works as intended or as above. This means that some content in the table was again deleted. As a result, it did not appear in the output file.
 
-## HTML and other tags
+### HTML and other tags
 
 HTML and other tags work as intended or as above.
 
-# [Extract image title](./resources/Markdown-in-CAT-test-WF_PL-04){:target="_blank"}
+## [Extract image title](./resources/Markdown-in-CAT-test-WF_PL-04){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended.
 
-## Links
+### Links
 
 Hover text is imported, but only for images:
 
@@ -207,25 +207,25 @@ Hover text is imported, but only for images:
 
 The rest works as intended or as above.
 
-## Quotations
+### Quotations
 
 Quotations work as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Extended syntax works as intended or as above. This means that some content in the table was again deleted. As a result, it did not appear in the output file.
 
-## HTML and other tags
+### HTML and other tags
 
 HTML and other tags work as intended or as above.
 
-# [Extract href link URL value](./resources/Markdown-in-CAT-test-WF_PL-05){:target="_blank"}
+## [Extract href link URL value](./resources/Markdown-in-CAT-test-WF_PL-05){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended.
 
-## Links
+### Links
 
 <kbd>&#128008;CAT EDITOR ISSUE</kbd>: Markdown and HTML reference links are shown partially as text and as text, respectively. In the case of Markdown, brackets are ignored, but the hash symbol is visible in the Wordfast editor.
 
@@ -237,27 +237,27 @@ This means it is possible to translate e.g. the table of contents:
 
 The rest works as intended or as above.
 
-## Quotations
+### Quotations
 
 Quotations work as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 <kbd>&#128680;REALLY!</kbd>: For some reason, the missing content in the table cells appeared.
 
 The rest works as intended or as above.
 
-## HTML and other tags
+### HTML and other tags
 
 HTML and other tags work as intended or as above.
 
-# [Extract href link URL title](./resources/Markdown-in-CAT-test-WF_PL-06){:target="_blank"}
+## [Extract href link URL title](./resources/Markdown-in-CAT-test-WF_PL-06){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended.
 
-## Links
+### Links
 
 Hover text for Markdown reference and HTML links is imported and can be translated:
 
@@ -271,15 +271,15 @@ Hover text for Markdown reference and HTML links is imported and can be translat
 3. Odniesienie do [mojej strony Translatorion.com znajduje się tutaj](https://translatorion.com/ "Nie wybrałem życia tłumacza, życie tłumacza wybrało mnie").
 ```
 
-## Quotations
+### Quotations
 
 Quotations work as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Extended syntax works as intended or as above.
 
-## HTML and other tags
+### HTML and other tags
 
 HTML and other tags work as intended or as above.
 

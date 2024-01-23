@@ -4,11 +4,11 @@ layout: default
 nav_order: 3
 parent: Trados Studio 2022  — overview
 ---
-# Summary
+## Summary
 
 In general, Trados Studio 2022 is a good tool to translate Markdown files. However, it shows strange behaviour and errors in some of the settings.
 
-## Advantages
+### Advantages
 
 - Imports a lot of content in default settings, e.g.:
 	- link descriptions
@@ -17,18 +17,18 @@ In general, Trados Studio 2022 is a good tool to translate Markdown files. Howev
 - Comments `<!-- comment example -->` can be translated
 - Imports the content of embedded HTML code, but only in `Html Embedded Content 5 2.0.0.0`
 
-## Disadvantages
+### Disadvantages
 
 - Bizarre behaviour of hover text between different references
 - Markdown reference in links cannot be translated, which makes it impossible to translate a table of contents or all other references to headers in Markdown files
 - Inline code is ignored and cannot be translated
 - HTML in the `Embedded Content Plain Text v 1.0.0.0` filter is shown as text, which increases the risk of accidental editing
 
-# Recommendations for translation of Markdown files in Trados Studio
+## Recommendations for translation of Markdown files in Trados Studio
 
 This section contains recommendations for technical writers (or generally, authors writing in Markdown) and translators.
 
-## Recommendations for technical writers
+### Recommendations for technical writers
 
 - Inform the translator about basic Markdown syntax because tags in code block are shown as text
 - If references are to be translated, inform the translator:
@@ -40,7 +40,7 @@ This section contains recommendations for technical writers (or generally, autho
 - Encourage the translator to contact you if the CAT editor shows any characters that are not used in a standard way in the source language as these are most likely tags
 - Be aware that some content between different HTML tags may or may not be imported into Trados and, as a result, translated
 
-## Recommendations for translators
+### Recommendations for translators
 
 - Adapt the settings to your needs — if the embedded HTML does not contain content to be translated, uncheck the `Translate HTML block` box 
 	- This way you do not risk accidental editing of the HTML code

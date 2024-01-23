@@ -7,11 +7,11 @@ parent: Phrase — overview
 Phrase
 ===
 
-# Summary
+## Summary
 
 In general, Phrase is a good tool to translate Markdown files when specific settings are applied.
 
-## Advantages
+### Advantages
 
 - Rich settings
 	- Can be configured with regex and other rules
@@ -19,7 +19,7 @@ In general, Phrase is a good tool to translate Markdown files when specific sett
 - Code block can be translated
 - Imports the content of embedded HTML code
 
-## Disadvantages
+### Disadvantages
 
 - Only GitHub flavoured Markdown yields satisfactory results
 	- [Plain](phrase-02-results#plain){:target="_blank"} Markdown flavour creates an output file that is useless, as restoring it to a usable state would take much time
@@ -29,11 +29,11 @@ In general, Phrase is a good tool to translate Markdown files when specific sett
 - Comments `<!-- comment example -->` are ignored and cannot be translated
 - Emoji is shown as text, which makes it difficult for Machine Translation
 
-# Recommendations for translation of Markdown files in Phrase
+## Recommendations for translation of Markdown files in Phrase
 
 This section contains recommendations for technical writers (or generally, authors writing in Markdown) and translators.
 
-## Recommendations for technical writers
+### Recommendations for technical writers
 
 - Inform the translator about basic Markdown syntax because some tags can be shown as text
 - Inform the translator about HTML or quoted code syntax because the content in the code block is shown as text
@@ -51,7 +51,7 @@ This section contains recommendations for technical writers (or generally, autho
 - Inform the translator that the output file may look different from the source file
 - Encourage the translator to contact you if the CAT editor shows any characters that are not used in a standard way in the source language as these are most likely tags
 
-## Recommendations for translators
+### Recommendations for translators
 
 - Use [PHP/Python Markdown Extra](phrase-02-results#php-&#47;-python-markdown-extra){:target="_blank"} if no lists are used, but footnotes are
 - Use [GitHub Flavoured Markdown](phrase-02-results#github-flavoured-markdown){:target="_blank"} if lists are used, but not footnotes

@@ -3,13 +3,13 @@ title: About this project
 layout: default
 nav_order: 11
 ---
-# About
+## About
 
 This section is about the project, references, and the author. Here you can learn the details about how the project was created, why this topic was selected, and what tools were used.
 
 Here I'd like to mention [Kacper Bojakowski's](https://github.com/kacperbojakowski) project [Technical Writing for Translators](https://kacperbojakowski.github.io/final-project/) as a source of inspiration for the form of my project, even though the topic is radically different.
 
-# Project
+## Project
 
 This guide was created as a graduation project as part of the [Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) studies at the [Vistula University](https://vistula.edu.pl/en) during the academic year 2022/2023.
 
@@ -31,7 +31,7 @@ Here are some details about the project:
 
 **Peer Reviewers**: [Justyna Kula](https://www.linkedin.com/in/justyna-kula-5778a391/), [Monika Klimek](https://www.linkedin.com/in/monika-klimek1/)
 
-# References
+## References
 
 1. [G2, Listings of CAT software](https://www.g2.com/categories/computer-assisted-translation)
 2. ["HTML, Britannica"](https://www.britannica.com/technology/HTML)
@@ -42,7 +42,7 @@ Here are some details about the project:
 7. [Markdownguide.org](https://www.markdownguide.org/)
 8. [Tabor, Jared "CAT tool use by translators: what are they using?", Proz.com, access 2023-05-16](https://go.proz.com/blog/cat-tool-use-by-translators-what-are-they-using)
 
-# Author
+## Author
 
 Hi, I'm Paweł and I'm a technical translator with 10 years of experience. I translate mostly instruction manuals and other types of technical documentation. In 2022, I decided to enrol on the [Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) studies at the [Vistula University](https://vistula.edu.pl/en) to try my hand at creating technical documentation rather than translating it. Now, I'm ready to embark on a new adventure bringing a translator's perspective to the table.
 
@@ -54,13 +54,15 @@ Useful links and contact:
 - [Translatorion — Blog](https://translatorion.com/language/en/blog-en/)
 - pawel@translatorion.com
 
-# Version
+## Version
 
-Current version: **1.0**
+Current version: **1.2**
 
 | Version no. | Date | Changes |
 | --- | :---: | :---: |
 | 1.0 | 05.06.2023 | Release |
+| 1.1 | 23.01.2024 | Updated table of contents in `Results` pages |
+| 1.2 | 24.01.2024 | Changed headings to one level down |
 
 ---
 

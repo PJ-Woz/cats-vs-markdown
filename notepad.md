@@ -3,9 +3,9 @@ title: Fix it!
 layout: default
 nav_exclude: true
 ---
-# Fix it!
+## Fix it!
 
-## Critical
+### Critical
 
 - ~~links to output files~~
   - ~~min. ver: for DL~~
@@ -14,7 +14,7 @@ nav_exclude: true
 - ~~add site logo~~
 - add callouts
 
-## Non-critical
+### Non-critical
 
 - add colours
 - ~~lines at the bottom of the page - it's not necessary~~
@@ -22,7 +22,7 @@ nav_exclude: true
 - add collapsible tocs where necessary
 - add pictures
 
-# To do!
+## To do!
 
 - read
 - re-click

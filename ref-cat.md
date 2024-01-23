@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 parent: Overview
 ---
-# What is a CAT?
+## What is a CAT?
 
 A **Computer-Aided Translation** software (in short: a **CAT**) is a program that helps translators translate. Translation is still done by a human, but the CAT facilitates this process with inbuilt features.
 
@@ -16,7 +16,7 @@ Another important feature of the CAT is translation memory. A translation memory
 
 CATs offer many other tools and functionalities, but these are not relevant to this project, so they are not discussed.
 
-# What CATs are there?
+## What CATs are there?
 
 There are [many different CAT programs](https://www.g2.com/categories/computer-assisted-translation "various CAT programs"). Some are open-source, some are cloud-based, while some are completely desktop-based.
 
@@ -25,7 +25,7 @@ In this project, three CATs are analysed to test how they import and export Mark
 - [Trados Studio 2022](#trados-studio-2022)
 - [Wordfast Pro 8](#wordfast-pro-8)
 
-### Phrase
+#### Phrase
 
 [Phrase](https://phrase.com/) (earlier: Memsource) is a cloud-based translation management system, which also includes a CAT tool. It is completely web-based, meaning it is used via a web browser.
 
@@ -33,7 +33,7 @@ In this project, Phrase CAT web editor ver. 23.18.1 was used.
 
 [*Skip to section on Markdown in Phrase*.](phrase-01-settings)
 
-### Trados Studio 2022
+#### Trados Studio 2022
 
 [Trados Studio](https://www.trados.com/products/trados-studio/whats-new-studio-2022.html) is the oldest CAT software and often regarded as an industry standard. It works as a desktop application.
 
@@ -41,7 +41,7 @@ In this project, Trados Studio 2022 ver. 17.0.4.13209 was used.
 
 [*Skip to section on Markdown in Trados Studio 2022*](trados-01-settings)
 
-### Wordfast Pro 8
+#### Wordfast Pro 8
 
 [Wordfast](https://www.wordfast.com/products/wordfast_pro) is a CAT that started first as an add-on to Microsoft Word (now called Wordfast Classic). Later, it was developed into a desktop application, called Wordfast Pro.
 

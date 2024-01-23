@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 parent: Overview
 ---
-# What is Markdown?
+## What is Markdown?
 
 **Markdown** is a **markup language** used for formatting plaintext documents. It was created by [John Gruber](https://daringfireball.net/projects/markdown/) in 2004 and it has grown in popularity ever since.
 
@@ -27,7 +27,7 @@ Markdown's simplicity and frugality have another advantage. Markdown can be easi
 
 > The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
 
-# Where is Markdown used?
+## Where is Markdown used?
 
 Markdown is used for creating notes, presentations, and even simple websites. For example, this project is written almost completely in Markdown and HTML is sparsely used.
 
