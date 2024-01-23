@@ -24,8 +24,7 @@ The meanings of several phrases used in this section can be found in [Definition
 The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?*](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
-<details>
-<summary>Table of contents:</summary>
+Table of contents:
 
 - [General results](#general-results)
 - [Default format settings with extract table headers{:target="\_blank"}](#default-format-settings-with-extract-table-headerstarget_blank)
@@ -34,8 +33,6 @@ The reference information on what should or should not be translated (e.g. inlin
 - [Extract image title{:target="\_blank"}](#extract-image-titletarget_blank)
 - [Extract href link URL value{:target="\_blank"}](#extract-href-link-url-valuetarget_blank)
 - [Extract href link URL title{:target="\_blank"}](#extract-href-link-url-titletarget_blank)
-
-</details>
 
 # General results
 

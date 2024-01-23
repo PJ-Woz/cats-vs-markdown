@@ -24,8 +24,7 @@ The meanings of several phrases used in this section can be found in [Definition
 The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?*](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
-<details>
-<summary>Table of contents:</summary>
+Table of contents:
 
 - [General results](#general-results)
 - [Plain{:target="\_blank"}](#plaintarget_blank)
@@ -34,8 +33,6 @@ The reference information on what should or should not be translated (e.g. inlin
 - [Preserve whitespaces{:target="\_blank"}](#preserve-whitespacestarget_blank)
 - [Exclude code elements{:target="\_blank"}](#exclude-code-elementstarget_blank)
 - [Exclude code elements with unchecked import code blocks{:target="\_blank"}](#exclude-code-elements-with-unchecked-import-code-blockstarget_blank)
-
-</details>
 
 # General results
 

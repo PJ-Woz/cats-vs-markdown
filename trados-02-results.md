@@ -24,8 +24,7 @@ The meanings of several phrases used in this section can be found in [Definition
 The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?*](ref-why-md-difficult).
 <!-- REUSE COMP END -->
 
-<details>
-<summary>Table of contents:</summary>
+Table of contents:
 
 - [General results](#general-results)
 - [Default settings{:target="\_blank"}](#default-settingstarget_blank)
@@ -37,8 +36,6 @@ The reference information on what should or should not be translated (e.g. inlin
 - [Results](#results)
 - [Translate HTML blocks with embedded content spreadsheetML v. 1](#translate-html-blocks-with-embedded-content-spreadsheetml-v-1)
 - [Translate HTML blocks with HTML embedded content 5 2.0.0.0{:target="\_blank"}](#translate-html-blocks-with-html-embedded-content-5-2000target_blank)
-
-</details>
 
 # General results
 
