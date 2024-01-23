@@ -11,13 +11,13 @@ Here I'd like to mention [Kacper Bojakowski's](https://github.com/kacperbojakows
 
 ## Project
 
-This guide was created as a graduation project as part of the [Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) studies at the [Vistula University](https://vistula.edu.pl/en) during the academic year 2022/2023.
+This guide was created as a graduation project as part of the [Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) studies at [Vistula University](https://vistula.edu.pl/en) during the academic year 2022/2023.
 
 Here are some details about the project:
 
 **Title**: How do CATs process Markdown files?
 
-**Personas**: translators who need to translate an .md file and technical writers who need to send .md files for translation
+**Personas**: translators who need to translate an `.md` file and technical writers who need to send .md files for translation
 
 **Tools**: [Markdown](https://daringfireball.net/projects/markdown), [Jekyll](https://jekyllrb.com/), [Just the Docs](https://github.com/just-the-docs/just-the-docs)
 
@@ -44,7 +44,7 @@ Here are some details about the project:
 
 ## Author
 
-Hi, I'm Paweł and I'm a technical translator with 10 years of experience. I translate mostly instruction manuals and other types of technical documentation. In 2022, I decided to enrol on the [Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) studies at the [Vistula University](https://vistula.edu.pl/en) to try my hand at creating technical documentation rather than translating it. Now, I'm ready to embark on a new adventure bringing a translator's perspective to the table.
+Hi, I'm Paweł and I'm a technical translator with 10 years of experience. I translate mostly instruction manuals and other types of technical documentation. In 2022, I decided to enrol on the [Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna) studies at [Vistula University](https://vistula.edu.pl/en) to try my hand at creating technical documentation rather than translating it. Now, I'm ready to embark on a new adventure bringing a translator's perspective to the table.
 
 Useful links and contact:
 - [LinkedIn](https://www.linkedin.com/in/pawel-woznikowski/)

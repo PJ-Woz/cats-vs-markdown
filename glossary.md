@@ -19,7 +19,7 @@ A program that helps translators translate.
 
 ### Editor
 
-The part of a [**CAT**](#CAT) which displays [**segments**](#segment) and where translation is entered.
+The part of a [**CAT**](#CAT) which displays [**segments**](#segment) and where the translation is entered.
 
 ## H
 
@@ -59,7 +59,7 @@ Earlier Memsource; a cloud-based translation management system, which also inclu
 
 ### Reference
 
-The part of a Markdown link that is in parentheses, e.g. in `[Shark](IMG_20200401_210429.jpg)`, it is `IMG_20200401_210429.jpg`. It can be an [**URL**](#URL), a path to a file, or a header anchor.
+The part of a Markdown link that is in parentheses, e.g. in `[Shark](IMG_20200401_210429.jpg)`, it is `IMG_20200401_210429.jpg`. It can be a [**URL**](#URL), a path to a file, or a header anchor.
 
 ## S
 

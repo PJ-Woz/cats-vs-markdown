@@ -8,7 +8,7 @@ How do CATs process Markdown files?
 
 ## Introduction
 
-Markdown markup language is often used to create technical documentation. It can be code documentation or instructions for use, for instance API documentation.
+The Markdown markup language is often used to create technical documentation. It can be code documentation or instructions for use, for instance API documentation.
 
 Sometimes, this documentation needs to be translated into other languages. To make translation smoother, Computer Aided Translation (CAT) software is usually used. Such programs, among many other features, protect non-editable text elements from accidental changes and make translation faster with glossaries or databases of previously translated texts.
 
@@ -28,19 +28,19 @@ Both the technical writer and the translator must be aware of the pitfalls and o
 
 A technical writer needs to have general knowledge about what a CAT program can do, can do to a certain extent, and cannot do. They can also make translation of Markdown files easier by writing their texts in a specific manner. Lastly, they can meet the translator halfway by preparing a brief with dos and don'ts.
 
-A translator needs to have general knowledge about Markdown. The translator should be aware what should be translated, what should not be edited, and how to translate phrases in certain contexts. Lastly, the translator can meet the technical writer halfway by knowing what characters are used in Markdown and what the general syntax of Markdown is.
+A translator needs to have general knowledge about Markdown. The translator should be aware of what should be translated, what should not be edited, and how to translate phrases in certain contexts. Lastly, the translator can meet the technical writer halfway by knowing what characters are used in Markdown and what the general syntax of Markdown is.
 
 This study is like the rim of a coin; it joins both sides so they can create together a unified whole.
 
 ## How to use this study 
 
-This study is of value for both technical writers and translators. Whether you are the former or the latter, you can treat it as a point of reference on Markdown for translators and on CAT programs for technical writers.
+This study is of value to both technical writers and translators. Whether you are the former or the latter, you can treat it as a point of reference on Markdown for translators and on CAT programs for technical writers.
 
 You can also learn what Markdown settings are included in Phrase, Trados Studio 2022, and Wordfast Pro. The settings are applied separately and in conjunction to open a [Markdown test file](ref-test-file). This file covers basic and extended Markdown syntax and also embedded HTML tags. The aim is to test how the CAT programs process Markdown syntax and which settings are best suited for the translation of `` files. The programs are then compared with each other.
 
 The study includes sections with recommendations. If you are a technical writer, they can help you with preparing a Markdown file which is easier for translating with a CAT. If you are a translator, they can help you with proper opening and translating a Markdown file in a CAT program.
 
-You can read this study as a whole or just the sections that are of interest to you. If you know your Markdown file will be processed in a given CAT program, go straight to relevant sections.
+You can read this study as a whole or just the sections that are of interest to you. If you know your Markdown file will be processed in a given CAT program, go straight to the relevant sections.
 
 ---
 ## Table of contents
