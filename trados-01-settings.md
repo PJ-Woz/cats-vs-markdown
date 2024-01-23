@@ -7,7 +7,7 @@ parent: Trados Studio 2022  — overview
 Trados Studio 2022
 ===
 
-# How to open Markdown settings in Trados Studio 2022
+## How to open Markdown settings in Trados Studio 2022
 
 1. Create a new project.
 2. Go to `Project settings`.
@@ -20,7 +20,7 @@ Trados Studio 2022
 
 *Figure 1: default Markdown filters in Trados Studio 2022*
 
-# Markdown settings
+## Markdown settings
 
 Trados Studio 2022 has the following filter settings for Markdown:
 1. `Handle line breaks as inline tags`

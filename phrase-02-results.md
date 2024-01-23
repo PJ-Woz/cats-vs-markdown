@@ -7,7 +7,7 @@ parent: Phrase — overview
 Phrase
 ===
 
-# Phrase results
+## Phrase results
 
 <!-- REUSE COMP BGN -->
 The results for individual settings are grouped according to the sections in the test file. If a feature is not mentioned, it means it works as intended — it was imported correctly into the editor and produced the correct output in the exported file.
@@ -34,7 +34,7 @@ Table of contents:
 - [Exclude code elements{:target="\_blank"}](#exclude-code-elementstarget_blank)
 - [Exclude code elements with unchecked import code blocks{:target="\_blank"}](#exclude-code-elements-with-unchecked-import-code-blockstarget_blank)
 
-# General results
+## General results
 
 The Phrase editor shows the majority of Markdown formatting as CAT tags:
 
@@ -46,9 +46,9 @@ Links to websites are ignored and not shown as CAT tags. However, the alt text f
 
 There is often a discrepancy between what is seen in the editor and what actually works or does not work in the output file.
 
-# [Plain](resources/Markdown-in-CAT-test-PH_PL-01){:target="_blank"}
+## [Plain](resources/Markdown-in-CAT-test-PH_PL-01){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 <kbd>&#128680;REALLY!</kbd>: Strikethrough is shown as text:
 
@@ -70,7 +70,7 @@ Oto przykład listy nieuporządkowanej: - Pozycja 1 - Pozycja 2 - Pozycja 3 - Po
 
 The rest works as intended.
 
-## Links
+### Links
 
 Reference is not fully translatable: the display text in square brackets is translatable, but the reference content in round brackets is not translatable as in `[Składnia podstawowa](#basic-syntax)`.
 
@@ -78,7 +78,7 @@ URLs are shown as text.
 
 The rest works as intended.
 
-## Quotations
+### Quotations
 
 Code block is shown as text.
 
@@ -86,9 +86,9 @@ Code block is shown as text.
 
 ```
 Składnia: \`\`\`
-# Nagłówek 1
-## Nagłówek 2
-### Nagłówek 3
+## Nagłówek 1
+### Nagłówek 2
+#### Nagłówek 3
 \`\`\`
 ```
 
@@ -96,7 +96,7 @@ Inline code works and its content can be translated.
 
 The rest works as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Table syntax is shown as text:
 
@@ -115,7 +115,7 @@ Comments to be omitted are ignored.
 
 The rest works as intended.
 
-## HTML and other tags
+### HTML and other tags
 
 <kbd>&#128228;OUPUT FILE ISSUE</kbd>: The Markdown table in the collapsed section does not work.
 
@@ -127,25 +127,25 @@ HTML is shown as text. Otherwise, it works as intended in the output file
 
 The rest works as intended.
 
-# [PHP/Python Markdown extra](resources/Markdown-in-CAT-test-PH_PL-02){:target="_blank"}
+## [PHP/Python Markdown extra](resources/Markdown-in-CAT-test-PH_PL-02){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Basic syntax works as intended or as above.
 
 <kbd>&#128680;REALLY!</kbd>: Indeed, lists do not work here either.
 
-## Links
+### Links
 
 The links work as intended or as above.
 
-## Quotations
+### Quotations
 
 Code blocks work as intended and it can be translated. All Markdown, HTML, and JavaScript code is shown as text.
 
 The rest works as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Tables work as intended.
 
@@ -153,13 +153,13 @@ Footnotes work as intended.
 
 The rest works as intended or as above.
 
-## HTML and other tags
+### HTML and other tags
 
 HTML and other tags work as intended or as above.
 
-# [GitHub flavoured Markdown](resources/Markdown-in-CAT-test-PH_PL-03){:target="_blank"}
+## [GitHub flavoured Markdown](resources/Markdown-in-CAT-test-PH_PL-03){:target="_blank"}
 
-## Basic syntax
+### Basic syntax
 
 Ordered lists work as intended.
 
@@ -167,21 +167,21 @@ Unordered lists work as intended.
 
 The rest works as intended.
 
-## Links
+### Links
 
 The links work as intended or as above.
 
-## Quotations
+### Quotations
 
 Quotations work as intended or as above.
 
-## Extended syntax
+### Extended syntax
 
 Footnotes do not work.
 
 The rest works as intended or as above.
 
-## HTML and other tags
+### HTML and other tags
 
 The Markdown table works in the collapsed section.
 
@@ -189,13 +189,13 @@ HTML and other tags work as intended or as above.
 
 **IMPORTANT:** This flavour setting works best out of the three, so it will be used in further study.
 
-# [Preserve whitespaces](resources/Markdown-in-CAT-test-PH_PL-04){:target="_blank"}
+## [Preserve whitespaces](resources/Markdown-in-CAT-test-PH_PL-04){:target="_blank"}
 
 Generally, the segmentation changed, but the output file is similar to the one in the [GitHub flavoured Markdown](#github-flavoured-markdown) setting.
 
 As a result, no detailed study is presented.
 
-# [Exclude code elements](resources/Markdown-in-CAT-test-PH_PL-05){:target="_blank"}
+## [Exclude code elements](resources/Markdown-in-CAT-test-PH_PL-05){:target="_blank"}
 
 Generally, this setting works similarly to [GitHub flavoured Markdown](#github-flavoured-markdown) with one exception.
 
@@ -203,7 +203,7 @@ Inline code is ignored.
 
 As a result, no detailed study is presented.
 
-# [Exclude code elements with unchecked import code blocks](resources/Markdown-in-CAT-test-PH_PL-06){:target="_blank"}
+## [Exclude code elements with unchecked import code blocks](resources/Markdown-in-CAT-test-PH_PL-06){:target="_blank"}
 
 Generally, this setting works similarly to [Exclude code elements](#exclude-code-elements) with one exception.
 

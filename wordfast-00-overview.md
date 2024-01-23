@@ -8,7 +8,7 @@ has_toc: false
 Wordfast Pro 8
 ===
 
-# Overview
+## Overview
 
 [Wordfast](https://www.wordfast.com/products/wordfast_pro) is a CAT that started first as an add-on to Microsoft Word (now called Wordfast Classic). Later, it was developed into a desktop application, called Wordfast Pro.
 

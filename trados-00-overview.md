@@ -8,7 +8,7 @@ has_toc: false
 Trados Studio 2022
 ===
 
-# Overview
+## Overview
 
 [Trados Studio](https://www.trados.com/products/trados-studio/whats-new-studio-2022.html) is the oldest CAT software and often regarded as an industry standard. It works as a desktop application.
 

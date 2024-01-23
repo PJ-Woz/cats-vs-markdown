@@ -7,7 +7,7 @@ parent: Phrase — overview
 Phrase
 ===
 
-# How to open Markdown settings in Phrase
+## How to open Markdown settings in Phrase
 
 1. Create a new project.
 2. Create a job.
@@ -19,7 +19,7 @@ Phrase
 
 *Figure 1: Default Markdown filters in Phrase*
 
-# Markdown settings
+## Markdown settings
 
 Phrase has the following filter settings for Markdown:
 1. `Flavor` (only one can be selected):

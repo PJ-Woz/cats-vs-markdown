@@ -6,7 +6,7 @@ nav_order: 7
 Comparison of CATs
 ===
 
-# Overview
+## Overview
 
 This section shows a comparison of Phrase, Trados Studio 2022, and Wordfast Pro 8.
 
@@ -18,7 +18,7 @@ The usability index of a CAT is measured by the sum of the number of `✔️YES`
 
 However, the usability index is only a simple measure. The results are additionally discussed because some features are more important or make translation a more fail-proof process.
 
-## Symbols and their meanings
+### Symbols and their meanings
 
 There are three symbols used in the table:
 - `✔️YES` means that a given feature works in all tested settings
@@ -26,7 +26,7 @@ There are three symbols used in the table:
 - `❌NO` means that a given feature does not work in any setting
 
 
-# Comparison
+## Comparison
 
  | No. | Feature                                    | Phrase    | Trados    | Wordfast  |
 | :--- | :--------------------------------------- | :---------: | :---------: | :---------: |
@@ -73,7 +73,7 @@ There are three symbols used in the table:
 
 *Table 1: Comparison of features and the CATs*
 
-# Usability index
+## Usability index
 
 The table below shows the summary results for `✔️YES`, `⚠️️DEPENDS`, and `❌NO`.
 
@@ -92,9 +92,9 @@ Phrase is on the first place on `⚠️️DEPENDS`.
 
 Based on the data, Phrase is the most usable CAT out of the three. However, only by a small margin. Trados and Wordfast are tied for second.
 
-# Discussion of the results
+## Discussion of the results
 
-## [Phrase](phrase-00-overview)
+### [Phrase](phrase-00-overview)
 
 Even though Phrase scored first, there are some reservations.
 
@@ -104,7 +104,7 @@ On the upside, Phrase has some advantages over Trados and Wordfast. It has setti
 
 **Verdict**: Good solution, covers almost everything, a lot can be configured by the user. However, the need for proper configuration is a disadvantage for less knowledgeable translators.
 
-## [Trados Studio 2022](trados-00-overview)
+### [Trados Studio 2022](trados-00-overview)
 
 As an industry standard software, Trados is a solid solution for translating Markdown files.
 
@@ -116,7 +116,7 @@ On the upside, Trados is the only CAT in which comments can be translated and th
 
 **Verdict**: Good solution, an all-rounder that does not require much configuration. However, some configurations do not work, cause errors, or are not fail-proof, which may be problematic for translators.
 
-## [Wordfast Pro 8](wordfast-00-overview)
+### [Wordfast Pro 8](wordfast-00-overview)
 
 As a [second-to-Trados](https://go.proz.com/blog/cat-tool-use-by-translators-what-are-they-using), Wordfast is also a solid solution for translating Markdown files. However, the overall impressions are mixed.
 
@@ -126,7 +126,7 @@ On the upside, the formatting error was caused by a fringe case that most likely
 
 **Verdict**: Good solution and it would be the best if it supported translation of inline code or code blocks. Possibility of translating Markdown reference is a game changer in comparison with the other CATs. However, it has a disappointing illusion of the choice of settings, as many of them should be default.
 
-## Which CAT to choose?
+### Which CAT to choose?
 
 All three CATs come close and there is no single best solution. All three are ahead of the others in some respects, while stunningly fail with regard to other features. Much depends on what needs to be translated.
 

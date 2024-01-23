@@ -1,4 +1,4 @@
-#  *How do CATs process Markdown files?* — Readme
+##  *How do CATs process Markdown files?* — Readme
 
 This is the repository of a diploma project carried out as part of Technical Communication post-graduate studies at Vistula University.
 

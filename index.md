@@ -6,7 +6,7 @@ nav_order: 1
 How do CATs process Markdown files? 
 ===
 
-# Introduction
+## Introduction
 
 Markdown markup language is often used to create technical documentation. It can be code documentation or instructions for use, for instance API documentation.
 
@@ -16,7 +16,7 @@ There are many different CAT programs available. However, they process Markdown 
 
 This study presents how three CAT programs — Phrase, Trados Studio 2022, and Wordfast Pro — process Markdown files with inbuilt settings.
 
-# Aim
+## Aim
 
 Successful translation of a Markdown file is like a coin: there are two sides that are inseparable opposites.
 
@@ -32,7 +32,7 @@ A translator needs to have general knowledge about Markdown. The translator shou
 
 This study is like the rim of a coin; it joins both sides so they can create together a unified whole.
 
-# How to use this study 
+## How to use this study 
 
 This study is of value for both technical writers and translators. Whether you are the former or the latter, you can treat it as a point of reference on Markdown for translators and on CAT programs for technical writers.
 
@@ -43,7 +43,7 @@ The study includes sections with recommendations. If you are a technical writer,
 You can read this study as a whole or just the sections that are of interest to you. If you know your Markdown file will be processed in a given CAT program, go straight to relevant sections.
 
 ---
-# Table of contents
+## Table of contents
 
 1. [Introduction](index)
 2. [Overview](ref-overview)

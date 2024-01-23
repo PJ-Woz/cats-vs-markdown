@@ -8,7 +8,7 @@ has_toc: false
 Phrase
 ===
 
-# Overview
+## Overview
 
 [Phrase](https://phrase.com/){:target="_blank"} (earlier: Memsource) is a cloud-based translation management system, which also includes a CAT tool. It is completely web-based, meaning it is used via a web browser.
 

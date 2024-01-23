@@ -7,7 +7,7 @@ parent: Wordfast Pro 8 — overview
 Wordfast Pro 8
 ===
 
-# How to open Markdown settings in Wordfast
+## How to open Markdown settings in Wordfast
 
 1. Go to `Preferences`
 	- Note: Unlike in [Phrase](phrase-01-settings) or [Trados](trados-01-settings), you do not have to create a new project to configure Markdown settings.
@@ -19,7 +19,7 @@ Wordfast Pro 8
 
 *Figure 1: Default Markdown filters in Wordfast Pro 8*
 
-# Markdown settings
+## Markdown settings
 
 Wordfast Pro 8 has the following filter settings for Markdown:
 1. `Soft Line Break Type:``

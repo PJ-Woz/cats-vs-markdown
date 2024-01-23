@@ -6,11 +6,11 @@ nav_order: 8
 General recommendations for translating Markdown
 ===
 
-# Overview
+## Overview
 
 These general recommendations are for technical writers (or generally, authors writing in Markdown) and translators. The recommendations are not specific for any particular CAT, so they can be used with other CATs as well.
 
-## Recommendations for technical writers
+### Recommendations for technical writers
 
 In these recommendations, it is assumed that a technical writer contacts a translator who has little knowledge about Markdown.
 
@@ -34,7 +34,7 @@ In these recommendations, it is assumed that a technical writer contacts a trans
 	- Any deviations in the output file from the source file
 	- Any missing translations in the output file
 
-## Recommendations for translators
+### Recommendations for translators
 
 In these recommendations, it is assumed that a translator has basic knowledge of Markdown.
 
