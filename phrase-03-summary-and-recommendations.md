@@ -16,14 +16,14 @@ In general, Phrase is a good tool to translate Markdown files when specific sett
 - Rich settings
 	- Can be configured with regex and other rules
 - Inline code can be translated
-- Code block can be translated
+- Code blocks can be translated
 - Imports the content of embedded HTML code
 
 ### Disadvantages
 
 - Only GitHub flavoured Markdown yields satisfactory results
 	- [Plain](phrase-02-results#plain){:target="_blank"} Markdown flavour creates an output file that is useless, as restoring it to a usable state would take much time
-- Markdown reference in links cannot be translated, which makes it impossible to translate a table of contents or all other references to headers in Markdown files
+- Markdown references in links cannot be translated, which makes it impossible to translate a table of contents or all other references to headers in Markdown files
 - Many different features stop working in the output file, even though they look good in the editor
 	- Notable exception: [GitHub flavoured Markdown](phrase-02-results#github-flavoured-markdown){:target="_blank"}
 - Comments `<!-- comment example -->` are ignored and cannot be translated

@@ -56,13 +56,13 @@ There is often a discrepancy between what is seen in the editor and what actuall
 
 *Figure 2: Strikethrough shown as text*
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: Ordered lists do not work. Backslash is entered in the output file which turns off the list:
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: Ordered lists do not work. Backslash is entered in the output file which turns off the list:
 
 ```
 Oto przykład listy uporządkowanej: 1\. Pozycja 1 2. Pozycja 2 3. Pozycja 3 1. Podpozycja 3.1 2. Podpozycja 3.2.
 ```
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: Unordered lists do not work in the output file:
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: Unordered lists do not work in the output file:
 
 ```
 Oto przykład listy nieuporządkowanej: - Pozycja 1 - Pozycja 2 - Pozycja 3 - Podpozycja 3 - Podpozycja 3
@@ -80,9 +80,9 @@ The rest works as intended.
 
 ### Quotations
 
-Code block is shown as text.
+A code block is shown as text.
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: The escape sign `\` was inserted in front of every backtick {\`} symbol in the output file — code block does not work in the output.
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: The escape sign `\` was inserted in front of every backtick {\`} symbol in the output file — the code block does not work in the output.
 
 ```
 Składnia: \`\`\`
@@ -101,15 +101,15 @@ The rest works as intended or as above.
 Table syntax is shown as text:
 
 ![Markdown table shown with bar symbols in Phrase editor](resources/images/screenshots/pasted-image-20230518223042.png)
-*Figure 3: Table syntax in Phrase editor. Note that remaining Markdown syntax is shown as CAT tags*
+*Figure 3: Table syntax in Phrase editor. Note that the remaining Markdown syntax is shown as CAT tags*
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: The table does not work in the output file.
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: The table does not work in the output file.
 
 The task list does not work in the output file because it uses the syntax of an unordered list.
 
 Emoji is shown as text.
 
-<kbd>&#128680;REALLY!</kbd>: Despite of the various issues mentioned above, it is surprising that emoji works in the output file.
+<kbd>&#128680;REALLY!</kbd>: Despite the various issues mentioned above, it is surprising that emoji works in the output file.
 
 Comments to be omitted are ignored.
 
@@ -117,13 +117,13 @@ The rest works as intended.
 
 ### HTML and other tags
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: The Markdown table in the collapsed section does not work.
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: The Markdown table in the collapsed section does not work.
 
 <kbd>&#128680;REALLY!</kbd>: However, other Markdown formatting works in the collapsed section.
 
 HTML is shown as text. Otherwise, it works as intended in the output file
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: Because code block does not work, the embedded HTML is shown twice in the output file.
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: Because the code block does not work, the embedded HTML is shown twice in the output file.
 
 The rest works as intended.
 
@@ -131,7 +131,7 @@ The rest works as intended.
 
 ### Basic syntax
 
-Basic syntax works as intended or as above.
+The basic syntax works as intended or as above.
 
 <kbd>&#128680;REALLY!</kbd>: Indeed, lists do not work here either.
 
@@ -141,7 +141,7 @@ The links work as intended or as above.
 
 ### Quotations
 
-Code blocks work as intended and it can be translated. All Markdown, HTML, and JavaScript code is shown as text.
+Code blocks work as intended and they can be translated. All Markdown, HTML, and JavaScript code is shown as text.
 
 The rest works as intended or as above.
 
