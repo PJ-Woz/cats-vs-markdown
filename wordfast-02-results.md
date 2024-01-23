@@ -10,11 +10,11 @@ Wordfast Pro 8
 # Wordfast results
 
 <!-- REUSE COMP BGN -->
-The results for individual settings are grouped according to the sections in the test file. If a feature is not mentioned, it means it works as intended — it was imported correctly into the editor and produced correct output in the exported file.
+The results for individual settings are grouped according to the sections in the test file. If a feature is not mentioned, it means it works as intended — it was imported correctly into the editor and produced the correct output in the exported file.
 
-The test was carried out by checking the boxes in the settings. This made the CAT import more features and allowed more editing. When a feature started working, it is noted in the relevant section.
+The test was carried out by checking the boxes in the settings. This made the CAT import more features and allowed more editing. When a feature starts working, it is noted in the relevant section.
 
-The links in the headers lead to the files translated with given settings.
+The links in the headers lead to the files translated with the given settings.
 
 {: .important }
 Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. The fact that a feature does not work in GitHub preview does not mean it is caused by the incorrect output from the CAT. Various flavours ("dialects") of Markdown render more sophisticated syntax differently on different platforms.
@@ -23,6 +23,19 @@ Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. T
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file#definitions).
 The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?*](ref-why-md-difficult).
 <!-- REUSE COMP END -->
+
+<details>
+<summary>Table of contents:</summary>
+
+- [General results](#general-results)
+- [Default format settings with extract table headers{:target="\_blank"}](#default-format-settings-with-extract-table-headerstarget_blank)
+- [Extract image alt text{:target="\_blank"}](#extract-image-alt-texttarget_blank)
+- [Extract image link value{:target="\_blank"}](#extract-image-link-valuetarget_blank)
+- [Extract image title{:target="\_blank"}](#extract-image-titletarget_blank)
+- [Extract href link URL value{:target="\_blank"}](#extract-href-link-url-valuetarget_blank)
+- [Extract href link URL title{:target="\_blank"}](#extract-href-link-url-titletarget_blank)
+
+</details>
 
 # General results
 

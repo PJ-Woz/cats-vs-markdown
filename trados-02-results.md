@@ -10,11 +10,11 @@ Trados Studio 2022
 # Trados results
 
 <!-- REUSE COMP BGN -->
-The results for individual settings are grouped according to the sections in the test file. If a feature is not mentioned, it means it works as intended — it was imported correctly into the editor and produced correct output in the exported file.
+The results for individual settings are grouped according to the sections in the test file. If a feature is not mentioned, it means it works as intended — it was imported correctly into the editor and produced the correct output in the exported file.
 
-The test was carried out by checking the boxes in the settings. This made the CAT import more features and allowed more editing. When a feature started working, it is noted in the relevant section.
+The test was carried out by checking the boxes in the settings. This made the CAT import more features and allowed more editing. When a feature starts working, it is noted in the relevant section.
 
-The links in the headers lead to the files translated with given settings.
+The links in the headers lead to the files translated with the given settings.
 
 {: .important }
 Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. The fact that a feature does not work in GitHub preview does not mean it is caused by the incorrect output from the CAT. Various flavours ("dialects") of Markdown render more sophisticated syntax differently on different platforms.
@@ -23,6 +23,22 @@ Not every Markdown formatting, e.g., `^superscript^`, works in GitHub preview. T
 The meanings of several phrases used in this section can be found in [Definitions](ref-test-file#definitions).
 The reference information on what should or should not be translated (e.g. inline code) can be found in the section [*Why is Markdown difficult for CATs?*](ref-why-md-difficult).
 <!-- REUSE COMP END -->
+
+<details>
+<summary>Table of contents:</summary>
+
+- [General results](#general-results)
+- [Default settings{:target="\_blank"}](#default-settingstarget_blank)
+- [Handle line breaks as inline tags{:target="\_blank"}](#handle-line-breaks-as-inline-tagstarget_blank)
+- [Translate code blocks with embedded content plain text v 1.0.0.0{:target="\_blank"}](#translate-code-blocks-with-embedded-content-plain-text-v-1000target_blank)
+- [Translate code blocks with embedded content spreadsheetML v. 1](#translate-code-blocks-with-embedded-content-spreadsheetml-v-1)
+- [Translate code blocks with HTML embedded content 5 2.0.0.0{:target="\_blank"}](#translate-code-blocks-with-html-embedded-content-5-2000target_blank)
+- [Translate HTML blocks with embedded content plain text v 1.0.0.0{:target="\_blank"}](#translate-html-blocks-with-embedded-content-plain-text-v-1000target_blank)
+- [Results](#results)
+- [Translate HTML blocks with embedded content spreadsheetML v. 1](#translate-html-blocks-with-embedded-content-spreadsheetml-v-1)
+- [Translate HTML blocks with HTML embedded content 5 2.0.0.0{:target="\_blank"}](#translate-html-blocks-with-html-embedded-content-5-2000target_blank)
+
+</details>
 
 # General results
 
@@ -162,7 +178,7 @@ After trial and error, it was discovered that error is caused by backtick <code>
 
 After trial and error, it was discovered that JavaScript code block generates the error. The JavaScript was removed to open the test file.
 
-<kbd>&#128228;OUPUT FILE ISSUE</kbd>: The quotation marks in the code block for "Definition" are shown as `&bdquo;` in the output file.
+<kbd>&#128228;OUTPUT FILE ISSUE</kbd>: The quotation marks in the code block for "Definition" are shown as `&bdquo;` in the output file.
 
 Apart from that, the text differs in segmentation, but the general behaviour stays as in [Translate code blocks with embedded content plain text v 1.0.0.0](#Translate-code-blocks-embedded-content-plain-text-v-1.0.0.0).
 
@@ -170,7 +186,7 @@ As a result, no further study is carried out.
 
 # [Translate HTML blocks with embedded content plain text v 1.0.0.0](resources/Markdown-in-CAT-test-TS_PL-05){:target="_blank"}
 
-It is used in combination with [Translate code blocks with embedded content plain text v 1.0.0.0](#Translate-code-blocks-embedded-content-plain-text-v-1.0.0.0) because this gave the least number errors.
+It is used in combination with [Translate code blocks with embedded content plain text v 1.0.0.0](#Translate-code-blocks-embedded-content-plain-text-v-1.0.0.0) because this gave the least number of errors.
 
 # Results
 
